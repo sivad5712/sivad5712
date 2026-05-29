@@ -12,24 +12,21 @@
 Senior Software Engineer with 8 years of experience designing, building, deploying, and optimizing high-performance enterprise applications across banking, healthcare, fraud detection, cloud modernization, real-time data processing, and distributed systems.
 
 <img src="https://img.shields.io/badge/%F0%9F%93%8D_United_States-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="United States">
-<img src="https://img.shields.io/badge/Open_to_Senior_Software_Engineer_opportunities-2f81f7?style=flat-square&labelColor=161b22&color=2f81f7" alt="Open to opportunities">
-
-<a href="https://sivad.abacusai.app"><img src="https://img.shields.io/badge/Portfolio-sivad.abacusai.app-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="Portfolio"></a>
-<a href="https://github.com/sivad5712"><img src="https://img.shields.io/badge/GitHub-github.com%2Fsivad5712-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="GitHub"></a>
+<img src="https://img.shields.io/badge/Open_to_Senior_Software_Engineer_opportunities-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="Open to opportunities">
 
 </div>
 
 <!-- ===================== ACTION BUTTONS ===================== -->
 <p align="center">
-<a href="https://sivad.abacusai.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2f81f7?style=for-the-badge&labelColor=2f81f7&color=2f81f7" alt="Portfolio" height="34"></a>
+<a href="https://sivad.abacusai.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2f81f7?style=for-the-badge&labelColor=2f81f7&color=2f81f7&logoColor=f0f6fc" alt="Portfolio" height="32"></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/sivad571/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-007ACC?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=007ACC&color=007ACC" alt="LinkedIn" height="34"></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Download_Resume_(PDF)-161b22?style=for-the-badge&labelColor=161b22&color=30363d&logoColor=f0f6fc" alt="Download Resume (PDF)" height="32"></a>
 &nbsp;
-<a href="https://github.com/sivad5712" target="_blank"><img src="https://img.shields.io/badge/GitHub-21262d?style=for-the-badge&labelColor=161b22&color=21262d" alt="GitHub" height="34"></a>
+<a href="https://www.linkedin.com/in/sivad571/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&labelColor=161b22&color=30363d&logoColor=f0f6fc" alt="LinkedIn" height="32"></a>
 &nbsp;
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Download%20Resume%20%28PDF%29-21262d?style=for-the-badge&labelColor=161b22&color=21262d" alt="Download Resume PDF" height="34"></a>
+<a href="https://github.com/sivad5712" target="_blank"><img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&labelColor=161b22&color=30363d&logoColor=f0f6fc" alt="GitHub" height="32"></a>
 &nbsp;
-<a href="mailto:Sivad5712@gmail.com"><img src="https://img.shields.io/badge/Email-21262d?style=for-the-badge&labelColor=161b22&color=21262d" alt="Email" height="34"></a>
+<a href="mailto:Sivad5712@gmail.com"><img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&labelColor=161b22&color=30363d&logoColor=f0f6fc" alt="Email" height="32"></a>
 </p>
 
 <br>
@@ -61,172 +58,172 @@ Senior Software Engineer with 8 years of experience designing, building, deployi
 
 **Languages**
 
-<a href="https://www.oracle.com/java/" target="_blank"><img src="https://img.shields.io/badge/Java-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Java"></a>
-<a href="https://www.scala-lang.org/" target="_blank"><img src="https://img.shields.io/badge/Scala-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Scala"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="JavaScript"></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="TypeScript"></a>
-<a href="https://en.wikipedia.org/wiki/SQL" target="_blank"><img src="https://img.shields.io/badge/SQL-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="SQL"></a>
-<a href="https://www.oracle.com/database/technologies/appdev/plsql.html" target="_blank"><img src="https://img.shields.io/badge/PL%2FSQL-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="PL/SQL"></a>
-<a href="https://www.php.net/" target="_blank"><img src="https://img.shields.io/badge/PHP-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="PHP"></a>
-<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Python"></a>
+<a href="https://www.oracle.com/java/" target="_blank"><img src="https://img.shields.io/badge/Java-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="Java"></a>
+<a href="https://www.scala-lang.org/" target="_blank"><img src="https://img.shields.io/badge/Scala-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="Scala"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="JavaScript"></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="TypeScript"></a>
+<a href="https://en.wikipedia.org/wiki/SQL" target="_blank"><img src="https://img.shields.io/badge/SQL-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="SQL"></a>
+<a href="https://www.oracle.com/database/technologies/appdev/plsql.html" target="_blank"><img src="https://img.shields.io/badge/PL%2FSQL-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="PL/SQL"></a>
+<a href="https://www.php.net/" target="_blank"><img src="https://img.shields.io/badge/PHP-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="PHP"></a>
+<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="Python"></a>
 
 </td></tr>
 <tr><td valign="top">
 
 **Frontend**
 
-<a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/React-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="React"></a>
-<a href="https://angular.dev/" target="_blank"><img src="https://img.shields.io/badge/Angular-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Angular"></a>
-<a href="https://vuejs.org/" target="_blank"><img src="https://img.shields.io/badge/Vue.js-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Vue.js"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank"><img src="https://img.shields.io/badge/HTML5-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="HTML5"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="CSS3"></a>
-<a href="https://sass-lang.com/" target="_blank"><img src="https://img.shields.io/badge/Sass-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Sass"></a>
-<a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Bootstrap"></a>
-<a href="https://jquery.com/" target="_blank"><img src="https://img.shields.io/badge/jQuery-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="jQuery"></a>
-<a href="https://rxjs.dev/" target="_blank"><img src="https://img.shields.io/badge/RxJS-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="RxJS"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API" target="_blank"><img src="https://img.shields.io/badge/WebGL-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="WebGL"></a>
-<a href="https://threejs.org/" target="_blank"><img src="https://img.shields.io/badge/Three.js-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Three.js"></a>
+<a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/React-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="React"></a>
+<a href="https://angular.dev/" target="_blank"><img src="https://img.shields.io/badge/Angular-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="Angular"></a>
+<a href="https://vuejs.org/" target="_blank"><img src="https://img.shields.io/badge/Vue.js-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="Vue.js"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank"><img src="https://img.shields.io/badge/HTML5-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="HTML5"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="CSS3"></a>
+<a href="https://sass-lang.com/" target="_blank"><img src="https://img.shields.io/badge/Sass-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="Sass"></a>
+<a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="Bootstrap"></a>
+<a href="https://jquery.com/" target="_blank"><img src="https://img.shields.io/badge/jQuery-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="jQuery"></a>
+<a href="https://rxjs.dev/" target="_blank"><img src="https://img.shields.io/badge/RxJS-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="RxJS"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API" target="_blank"><img src="https://img.shields.io/badge/WebGL-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="WebGL"></a>
+<a href="https://threejs.org/" target="_blank"><img src="https://img.shields.io/badge/Three.js-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="Three.js"></a>
 
 </td></tr>
 <tr><td valign="top">
 
 **Backend & APIs**
 
-<a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://img.shields.io/badge/Spring_Boot-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Spring Boot"></a>
-<a href="https://docs.spring.io/spring-framework/reference/web/webmvc.html" target="_blank"><img src="https://img.shields.io/badge/Spring_MVC-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Spring MVC"></a>
-<a href="https://spring.io/projects/spring-security" target="_blank"><img src="https://img.shields.io/badge/Spring_Security-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Spring Security"></a>
-<a href="https://hibernate.org/" target="_blank"><img src="https://img.shields.io/badge/Hibernate-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Hibernate"></a>
-<a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Node.js"></a>
-<a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/Express.js-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Express.js"></a>
-<a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.shields.io/badge/Django-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Django"></a>
-<a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://img.shields.io/badge/Flask-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Flask"></a>
-<a href="https://laravel.com/" target="_blank"><img src="https://img.shields.io/badge/Laravel-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Laravel"></a>
-<a href="https://restfulapi.net/" target="_blank"><img src="https://img.shields.io/badge/REST_APIs-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="REST APIs"></a>
-<a href="https://graphql.org/" target="_blank"><img src="https://img.shields.io/badge/GraphQL-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="GraphQL"></a>
-<a href="https://www.w3.org/TR/soap/" target="_blank"><img src="https://img.shields.io/badge/SOAP-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="SOAP"></a>
-<a href="https://jakarta.ee/specifications/restful-ws/" target="_blank"><img src="https://img.shields.io/badge/JAX--RS-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="JAX-RS"></a>
-<a href="https://swagger.io/" target="_blank"><img src="https://img.shields.io/badge/Swagger-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Swagger"></a>
-<a href="https://www.openapis.org/" target="_blank"><img src="https://img.shields.io/badge/OpenAPI-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="OpenAPI"></a>
+<a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://img.shields.io/badge/Spring_Boot-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="Spring Boot"></a>
+<a href="https://docs.spring.io/spring-framework/reference/web/webmvc.html" target="_blank"><img src="https://img.shields.io/badge/Spring_MVC-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="Spring MVC"></a>
+<a href="https://spring.io/projects/spring-security" target="_blank"><img src="https://img.shields.io/badge/Spring_Security-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="Spring Security"></a>
+<a href="https://hibernate.org/" target="_blank"><img src="https://img.shields.io/badge/Hibernate-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="Hibernate"></a>
+<a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="Node.js"></a>
+<a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/Express.js-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="Express.js"></a>
+<a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.shields.io/badge/Django-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="Django"></a>
+<a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://img.shields.io/badge/Flask-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="Flask"></a>
+<a href="https://laravel.com/" target="_blank"><img src="https://img.shields.io/badge/Laravel-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="Laravel"></a>
+<a href="https://restfulapi.net/" target="_blank"><img src="https://img.shields.io/badge/REST_APIs-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="REST APIs"></a>
+<a href="https://graphql.org/" target="_blank"><img src="https://img.shields.io/badge/GraphQL-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="GraphQL"></a>
+<a href="https://www.w3.org/TR/soap/" target="_blank"><img src="https://img.shields.io/badge/SOAP-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="SOAP"></a>
+<a href="https://jakarta.ee/specifications/restful-ws/" target="_blank"><img src="https://img.shields.io/badge/JAX--RS-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="JAX-RS"></a>
+<a href="https://swagger.io/" target="_blank"><img src="https://img.shields.io/badge/Swagger-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="Swagger"></a>
+<a href="https://www.openapis.org/" target="_blank"><img src="https://img.shields.io/badge/OpenAPI-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="OpenAPI"></a>
 
 </td></tr>
 <tr><td valign="top">
 
 **Architecture & Security**
 
-<a href="https://microservices.io/" target="_blank"><img src="https://img.shields.io/badge/Microservices-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Microservices"></a>
-<a href="https://www.cncf.io/" target="_blank"><img src="https://img.shields.io/badge/Cloud--Native_Architecture-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Cloud-Native Architecture"></a>
-<a href="https://aws.amazon.com/event-driven-architecture/" target="_blank"><img src="https://img.shields.io/badge/Event--Driven_Architecture-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Event-Driven Architecture"></a>
-<a href="https://aws.amazon.com/api-gateway/" target="_blank"><img src="https://img.shields.io/badge/API_Gateway-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="API Gateway"></a>
-<a href="https://oauth.net/2/" target="_blank"><img src="https://img.shields.io/badge/OAuth_2.0-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="OAuth 2.0"></a>
-<a href="https://jwt.io/" target="_blank"><img src="https://img.shields.io/badge/JWT-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="JWT"></a>
-<a href="https://www.hl7.org/fhir/" target="_blank"><img src="https://img.shields.io/badge/FHIR-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="FHIR"></a>
-<a href="https://www.hl7.org/" target="_blank"><img src="https://img.shields.io/badge/HL7-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="HL7"></a>
+<a href="https://microservices.io/" target="_blank"><img src="https://img.shields.io/badge/Microservices-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="Microservices"></a>
+<a href="https://www.cncf.io/" target="_blank"><img src="https://img.shields.io/badge/Cloud--Native_Architecture-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="Cloud-Native Architecture"></a>
+<a href="https://aws.amazon.com/event-driven-architecture/" target="_blank"><img src="https://img.shields.io/badge/Event--Driven_Architecture-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="Event-Driven Architecture"></a>
+<a href="https://aws.amazon.com/api-gateway/" target="_blank"><img src="https://img.shields.io/badge/API_Gateway-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="API Gateway"></a>
+<a href="https://oauth.net/2/" target="_blank"><img src="https://img.shields.io/badge/OAuth_2.0-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="OAuth 2.0"></a>
+<a href="https://jwt.io/" target="_blank"><img src="https://img.shields.io/badge/JWT-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="JWT"></a>
+<a href="https://www.hl7.org/fhir/" target="_blank"><img src="https://img.shields.io/badge/FHIR-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="FHIR"></a>
+<a href="https://www.hl7.org/" target="_blank"><img src="https://img.shields.io/badge/HL7-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="HL7"></a>
 
 </td></tr>
 <tr><td valign="top">
 
 **Cloud & Infrastructure**
 
-<a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/AWS-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="AWS"></a>
-<a href="https://azure.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Azure-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Microsoft Azure"></a>
-<a href="https://cloud.google.com/" target="_blank"><img src="https://img.shields.io/badge/Google_Cloud-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Google Cloud"></a>
-<a href="https://aws.amazon.com/ec2/" target="_blank"><img src="https://img.shields.io/badge/AWS_EC2-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="AWS EC2"></a>
-<a href="https://aws.amazon.com/s3/" target="_blank"><img src="https://img.shields.io/badge/AWS_S3-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="AWS S3"></a>
-<a href="https://aws.amazon.com/lambda/" target="_blank"><img src="https://img.shields.io/badge/AWS_Lambda-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="AWS Lambda"></a>
-<a href="https://aws.amazon.com/eks/" target="_blank"><img src="https://img.shields.io/badge/AWS_EKS-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="AWS EKS"></a>
-<a href="https://aws.amazon.com/rds/" target="_blank"><img src="https://img.shields.io/badge/AWS_RDS-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="AWS RDS"></a>
-<a href="https://aws.amazon.com/iam/" target="_blank"><img src="https://img.shields.io/badge/AWS_IAM-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="AWS IAM"></a>
-<a href="https://azure.microsoft.com/products/kubernetes-service" target="_blank"><img src="https://img.shields.io/badge/Azure_AKS-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Azure AKS"></a>
-<a href="https://azure.microsoft.com/products/functions" target="_blank"><img src="https://img.shields.io/badge/Azure_Functions-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Azure Functions"></a>
-<a href="https://azure.microsoft.com/products/app-service" target="_blank"><img src="https://img.shields.io/badge/Azure_App_Service-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Azure App Service"></a>
-<a href="https://azure.microsoft.com/products/azure-sql" target="_blank"><img src="https://img.shields.io/badge/Azure_SQL-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Azure SQL"></a>
-<a href="https://azure.microsoft.com/products/storage/blobs" target="_blank"><img src="https://img.shields.io/badge/Azure_Blob_Storage-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Azure Blob Storage"></a>
-<a href="https://azure.microsoft.com/products/key-vault" target="_blank"><img src="https://img.shields.io/badge/Azure_Key_Vault-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Azure Key Vault"></a>
-<a href="https://cloud.google.com/kubernetes-engine" target="_blank"><img src="https://img.shields.io/badge/GCP_GKE-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="GCP GKE"></a>
+<a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/AWS-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="AWS"></a>
+<a href="https://azure.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Azure-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="Microsoft Azure"></a>
+<a href="https://cloud.google.com/" target="_blank"><img src="https://img.shields.io/badge/Google_Cloud-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="Google Cloud"></a>
+<a href="https://aws.amazon.com/ec2/" target="_blank"><img src="https://img.shields.io/badge/AWS_EC2-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="AWS EC2"></a>
+<a href="https://aws.amazon.com/s3/" target="_blank"><img src="https://img.shields.io/badge/AWS_S3-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="AWS S3"></a>
+<a href="https://aws.amazon.com/lambda/" target="_blank"><img src="https://img.shields.io/badge/AWS_Lambda-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="AWS Lambda"></a>
+<a href="https://aws.amazon.com/eks/" target="_blank"><img src="https://img.shields.io/badge/AWS_EKS-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="AWS EKS"></a>
+<a href="https://aws.amazon.com/rds/" target="_blank"><img src="https://img.shields.io/badge/AWS_RDS-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="AWS RDS"></a>
+<a href="https://aws.amazon.com/iam/" target="_blank"><img src="https://img.shields.io/badge/AWS_IAM-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="AWS IAM"></a>
+<a href="https://azure.microsoft.com/products/kubernetes-service" target="_blank"><img src="https://img.shields.io/badge/Azure_AKS-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="Azure AKS"></a>
+<a href="https://azure.microsoft.com/products/functions" target="_blank"><img src="https://img.shields.io/badge/Azure_Functions-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="Azure Functions"></a>
+<a href="https://azure.microsoft.com/products/app-service" target="_blank"><img src="https://img.shields.io/badge/Azure_App_Service-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="Azure App Service"></a>
+<a href="https://azure.microsoft.com/products/azure-sql" target="_blank"><img src="https://img.shields.io/badge/Azure_SQL-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="Azure SQL"></a>
+<a href="https://azure.microsoft.com/products/storage/blobs" target="_blank"><img src="https://img.shields.io/badge/Azure_Blob_Storage-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="Azure Blob Storage"></a>
+<a href="https://azure.microsoft.com/products/key-vault" target="_blank"><img src="https://img.shields.io/badge/Azure_Key_Vault-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="Azure Key Vault"></a>
+<a href="https://cloud.google.com/kubernetes-engine" target="_blank"><img src="https://img.shields.io/badge/GCP_GKE-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="GCP GKE"></a>
 
 </td></tr>
 <tr><td valign="top">
 
 **DevOps & Automation**
 
-<a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Docker"></a>
-<a href="https://kubernetes.io/" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Kubernetes"></a>
-<a href="https://developer.hashicorp.com/terraform/intro" target="_blank"><img src="https://img.shields.io/badge/Terraform-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Terraform"></a>
-<a href="https://aws.amazon.com/cloudformation/" target="_blank"><img src="https://img.shields.io/badge/CloudFormation-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="CloudFormation"></a>
-<a href="https://helm.sh/" target="_blank"><img src="https://img.shields.io/badge/Helm-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Helm"></a>
-<a href="https://www.jenkins.io/" target="_blank"><img src="https://img.shields.io/badge/Jenkins-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Jenkins"></a>
-<a href="https://github.com/features/actions" target="_blank"><img src="https://img.shields.io/badge/GitHub_Actions-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="GitHub Actions"></a>
-<a href="https://about.gitlab.com/topics/ci-cd/" target="_blank"><img src="https://img.shields.io/badge/CI%2FCD_Pipelines-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="CI/CD Pipelines"></a>
-<a href="https://www.sonarsource.com/products/sonarqube/" target="_blank"><img src="https://img.shields.io/badge/SonarQube-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="SonarQube"></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="Docker"></a>
+<a href="https://kubernetes.io/" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="Kubernetes"></a>
+<a href="https://developer.hashicorp.com/terraform/intro" target="_blank"><img src="https://img.shields.io/badge/Terraform-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="Terraform"></a>
+<a href="https://aws.amazon.com/cloudformation/" target="_blank"><img src="https://img.shields.io/badge/CloudFormation-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="CloudFormation"></a>
+<a href="https://helm.sh/" target="_blank"><img src="https://img.shields.io/badge/Helm-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="Helm"></a>
+<a href="https://www.jenkins.io/" target="_blank"><img src="https://img.shields.io/badge/Jenkins-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="Jenkins"></a>
+<a href="https://github.com/features/actions" target="_blank"><img src="https://img.shields.io/badge/GitHub_Actions-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="GitHub Actions"></a>
+<a href="https://about.gitlab.com/topics/ci-cd/" target="_blank"><img src="https://img.shields.io/badge/CI%2FCD_Pipelines-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="CI/CD Pipelines"></a>
+<a href="https://www.sonarsource.com/products/sonarqube/" target="_blank"><img src="https://img.shields.io/badge/SonarQube-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="SonarQube"></a>
 
 </td></tr>
 <tr><td valign="top">
 
 **Databases, Storage & Caching**
 
-<a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="PostgreSQL"></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="MySQL"></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="MongoDB"></a>
-<a href="https://www.oracle.com/database/" target="_blank"><img src="https://img.shields.io/badge/Oracle_Database-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Oracle Database"></a>
-<a href="https://www.ibm.com/products/db2" target="_blank"><img src="https://img.shields.io/badge/DB2-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="DB2"></a>
-<a href="https://cassandra.apache.org/" target="_blank"><img src="https://img.shields.io/badge/Cassandra-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Cassandra"></a>
-<a href="https://www.sqlite.org/" target="_blank"><img src="https://img.shields.io/badge/SQLite-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="SQLite"></a>
-<a href="https://aws.amazon.com/dynamodb/" target="_blank"><img src="https://img.shields.io/badge/DynamoDB-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="DynamoDB"></a>
-<a href="https://redis.io/" target="_blank"><img src="https://img.shields.io/badge/Redis-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Redis"></a>
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="PostgreSQL"></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="MySQL"></a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="MongoDB"></a>
+<a href="https://www.oracle.com/database/" target="_blank"><img src="https://img.shields.io/badge/Oracle_Database-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="Oracle Database"></a>
+<a href="https://www.ibm.com/products/db2" target="_blank"><img src="https://img.shields.io/badge/DB2-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="DB2"></a>
+<a href="https://cassandra.apache.org/" target="_blank"><img src="https://img.shields.io/badge/Cassandra-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="Cassandra"></a>
+<a href="https://www.sqlite.org/" target="_blank"><img src="https://img.shields.io/badge/SQLite-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="SQLite"></a>
+<a href="https://aws.amazon.com/dynamodb/" target="_blank"><img src="https://img.shields.io/badge/DynamoDB-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="DynamoDB"></a>
+<a href="https://redis.io/" target="_blank"><img src="https://img.shields.io/badge/Redis-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="Redis"></a>
 
 </td></tr>
 <tr><td valign="top">
 
 **Messaging & Streaming**
 
-<a href="https://kafka.apache.org/" target="_blank"><img src="https://img.shields.io/badge/Apache_Kafka-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Apache Kafka"></a>
-<a href="https://kafka.apache.org/documentation/streams/" target="_blank"><img src="https://img.shields.io/badge/Kafka_Streams-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Kafka Streams"></a>
-<a href="https://www.rabbitmq.com/" target="_blank"><img src="https://img.shields.io/badge/RabbitMQ-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="RabbitMQ"></a>
-<a href="https://activemq.apache.org/" target="_blank"><img src="https://img.shields.io/badge/ActiveMQ-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="ActiveMQ"></a>
+<a href="https://kafka.apache.org/" target="_blank"><img src="https://img.shields.io/badge/Apache_Kafka-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="Apache Kafka"></a>
+<a href="https://kafka.apache.org/documentation/streams/" target="_blank"><img src="https://img.shields.io/badge/Kafka_Streams-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="Kafka Streams"></a>
+<a href="https://www.rabbitmq.com/" target="_blank"><img src="https://img.shields.io/badge/RabbitMQ-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="RabbitMQ"></a>
+<a href="https://activemq.apache.org/" target="_blank"><img src="https://img.shields.io/badge/ActiveMQ-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="ActiveMQ"></a>
 
 </td></tr>
 <tr><td valign="top">
 
 **Testing & Quality**
 
-<a href="https://junit.org/junit5/" target="_blank"><img src="https://img.shields.io/badge/JUnit-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="JUnit"></a>
-<a href="https://site.mockito.org/" target="_blank"><img src="https://img.shields.io/badge/Mockito-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Mockito"></a>
-<a href="https://www.cypress.io/" target="_blank"><img src="https://img.shields.io/badge/Cypress-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Cypress"></a>
-<a href="https://jestjs.io/" target="_blank"><img src="https://img.shields.io/badge/Jest-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Jest"></a>
-<a href="https://www.postman.com/" target="_blank"><img src="https://img.shields.io/badge/Postman-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Postman"></a>
-<a href="https://cucumber.io/" target="_blank"><img src="https://img.shields.io/badge/Cucumber-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Cucumber"></a>
-<a href="https://owasp.org/" target="_blank"><img src="https://img.shields.io/badge/OWASP-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="OWASP"></a>
+<a href="https://junit.org/junit5/" target="_blank"><img src="https://img.shields.io/badge/JUnit-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="JUnit"></a>
+<a href="https://site.mockito.org/" target="_blank"><img src="https://img.shields.io/badge/Mockito-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="Mockito"></a>
+<a href="https://www.cypress.io/" target="_blank"><img src="https://img.shields.io/badge/Cypress-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="Cypress"></a>
+<a href="https://jestjs.io/" target="_blank"><img src="https://img.shields.io/badge/Jest-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="Jest"></a>
+<a href="https://www.postman.com/" target="_blank"><img src="https://img.shields.io/badge/Postman-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="Postman"></a>
+<a href="https://cucumber.io/" target="_blank"><img src="https://img.shields.io/badge/Cucumber-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="Cucumber"></a>
+<a href="https://owasp.org/" target="_blank"><img src="https://img.shields.io/badge/OWASP-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="OWASP"></a>
 
 </td></tr>
 <tr><td valign="top">
 
 **Monitoring & Observability**
 
-<a href="https://prometheus.io/" target="_blank"><img src="https://img.shields.io/badge/Prometheus-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Prometheus"></a>
-<a href="https://grafana.com/" target="_blank"><img src="https://img.shields.io/badge/Grafana-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Grafana"></a>
-<a href="https://www.elastic.co/elastic-stack" target="_blank"><img src="https://img.shields.io/badge/ELK_Stack-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="ELK Stack"></a>
-<a href="https://www.elastic.co/elasticsearch" target="_blank"><img src="https://img.shields.io/badge/Elasticsearch-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Elasticsearch"></a>
-<a href="https://www.elastic.co/logstash" target="_blank"><img src="https://img.shields.io/badge/Logstash-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Logstash"></a>
-<a href="https://www.elastic.co/kibana" target="_blank"><img src="https://img.shields.io/badge/Kibana-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Kibana"></a>
-<a href="https://www.splunk.com/" target="_blank"><img src="https://img.shields.io/badge/Splunk-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Splunk"></a>
+<a href="https://prometheus.io/" target="_blank"><img src="https://img.shields.io/badge/Prometheus-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="Prometheus"></a>
+<a href="https://grafana.com/" target="_blank"><img src="https://img.shields.io/badge/Grafana-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="Grafana"></a>
+<a href="https://www.elastic.co/elastic-stack" target="_blank"><img src="https://img.shields.io/badge/ELK_Stack-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="ELK Stack"></a>
+<a href="https://www.elastic.co/elasticsearch" target="_blank"><img src="https://img.shields.io/badge/Elasticsearch-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="Elasticsearch"></a>
+<a href="https://www.elastic.co/logstash" target="_blank"><img src="https://img.shields.io/badge/Logstash-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="Logstash"></a>
+<a href="https://www.elastic.co/kibana" target="_blank"><img src="https://img.shields.io/badge/Kibana-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="Kibana"></a>
+<a href="https://www.splunk.com/" target="_blank"><img src="https://img.shields.io/badge/Splunk-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="Splunk"></a>
 
 </td></tr>
 <tr><td valign="top">
 
 **Tools & Collaboration**
 
-<a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Git"></a>
-<a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="GitHub"></a>
-<a href="https://about.gitlab.com/" target="_blank"><img src="https://img.shields.io/badge/GitLab-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="GitLab"></a>
-<a href="https://bitbucket.org/" target="_blank"><img src="https://img.shields.io/badge/Bitbucket-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Bitbucket"></a>
-<a href="https://maven.apache.org/" target="_blank"><img src="https://img.shields.io/badge/Maven-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Maven"></a>
-<a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://img.shields.io/badge/Jira-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Jira"></a>
-<a href="https://www.atlassian.com/software/confluence" target="_blank"><img src="https://img.shields.io/badge/Confluence-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Confluence"></a>
-<a href="https://www.kernel.org/linux.html" target="_blank"><img src="https://img.shields.io/badge/Linux-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Linux"></a>
-<a href="https://www.microsoft.com/windows" target="_blank"><img src="https://img.shields.io/badge/Windows-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Windows"></a>
-<a href="https://tomcat.apache.org/" target="_blank"><img src="https://img.shields.io/badge/Apache_Tomcat-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Apache Tomcat"></a>
-<a href="https://www.jboss.org/" target="_blank"><img src="https://img.shields.io/badge/JBoss-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="JBoss"></a>
-<a href="https://nginx.org/" target="_blank"><img src="https://img.shields.io/badge/Nginx-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Nginx"></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="Git"></a>
+<a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="GitHub"></a>
+<a href="https://about.gitlab.com/" target="_blank"><img src="https://img.shields.io/badge/GitLab-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="GitLab"></a>
+<a href="https://bitbucket.org/" target="_blank"><img src="https://img.shields.io/badge/Bitbucket-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="Bitbucket"></a>
+<a href="https://maven.apache.org/" target="_blank"><img src="https://img.shields.io/badge/Maven-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="Maven"></a>
+<a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://img.shields.io/badge/Jira-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="Jira"></a>
+<a href="https://www.atlassian.com/software/confluence" target="_blank"><img src="https://img.shields.io/badge/Confluence-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="Confluence"></a>
+<a href="https://www.kernel.org/linux.html" target="_blank"><img src="https://img.shields.io/badge/Linux-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="Linux"></a>
+<a href="https://www.microsoft.com/windows" target="_blank"><img src="https://img.shields.io/badge/Windows-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="Windows"></a>
+<a href="https://tomcat.apache.org/" target="_blank"><img src="https://img.shields.io/badge/Apache_Tomcat-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="Apache Tomcat"></a>
+<a href="https://www.jboss.org/" target="_blank"><img src="https://img.shields.io/badge/JBoss-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="JBoss"></a>
+<a href="https://nginx.org/" target="_blank"><img src="https://img.shields.io/badge/Nginx-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="Nginx"></a>
 
 </td></tr>
 </table>
@@ -253,6 +250,8 @@ Modernized legacy monolithic Java systems into cloud-native microservices using 
 - Improved PostgreSQL query performance and supported high-volume transactional data processing.
 - Implemented observability using Prometheus and Grafana for proactive monitoring and reduced downtime.
 
+<a href="https://www.cuatlanta.org/" target="_blank"><img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Java"></a> <a href="https://www.cuatlanta.org/" target="_blank"><img src="https://img.shields.io/badge/Spring_Boot-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Spring Boot"></a> <a href="https://www.cuatlanta.org/" target="_blank"><img src="https://img.shields.io/badge/Angular-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Angular"></a> <a href="https://www.cuatlanta.org/" target="_blank"><img src="https://img.shields.io/badge/AWS-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="AWS"></a> <a href="https://www.cuatlanta.org/" target="_blank"><img src="https://img.shields.io/badge/Azure-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Azure"></a> <a href="https://www.cuatlanta.org/" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Kubernetes"></a> <a href="https://www.cuatlanta.org/" target="_blank"><img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Docker"></a> <a href="https://www.cuatlanta.org/" target="_blank"><img src="https://img.shields.io/badge/Jenkins-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Jenkins"></a> <a href="https://www.cuatlanta.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="PostgreSQL"></a> <a href="https://www.cuatlanta.org/" target="_blank"><img src="https://img.shields.io/badge/Prometheus-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Prometheus"></a> <a href="https://www.cuatlanta.org/" target="_blank"><img src="https://img.shields.io/badge/Grafana-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Grafana"></a>
+
 </td></tr>
 </table>
 
@@ -272,6 +271,8 @@ Built a secure healthcare data exchange platform using Java, Spring Boot, Node.j
 - Implemented OAuth2 and OpenID Connect authentication using Okta.
 - Maintained Jenkins CI/CD pipelines for Dockerized services on AWS EKS.
 - Improved monitoring and MTTR using Prometheus and Grafana.
+
+<a href="https://www.centene.com/" target="_blank"><img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Java"></a> <a href="https://www.centene.com/" target="_blank"><img src="https://img.shields.io/badge/Spring_Boot-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Spring Boot"></a> <a href="https://www.centene.com/" target="_blank"><img src="https://img.shields.io/badge/React-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="React"></a> <a href="https://www.centene.com/" target="_blank"><img src="https://img.shields.io/badge/Kafka-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Kafka"></a> <a href="https://www.centene.com/" target="_blank"><img src="https://img.shields.io/badge/FHIR-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="FHIR"></a> <a href="https://www.centene.com/" target="_blank"><img src="https://img.shields.io/badge/GraphQL-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="GraphQL"></a> <a href="https://www.centene.com/" target="_blank"><img src="https://img.shields.io/badge/AWS_EKS-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="AWS EKS"></a> <a href="https://www.centene.com/" target="_blank"><img src="https://img.shields.io/badge/Terraform-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Terraform"></a> <a href="https://www.centene.com/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="PostgreSQL"></a> <a href="https://www.centene.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="MongoDB"></a>
 
 </td></tr>
 </table>
@@ -293,6 +294,8 @@ Developed a cloud-native CAD visualization and real-time fleet analytics platfor
 - Implemented Redis caching for low-latency CAD thumbnails and KPI snapshots.
 - Established CI/CD workflows with GitHub Actions and automated testing.
 
+<a href="https://www.conmet.com/" target="_blank"><img src="https://img.shields.io/badge/React-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="React"></a> <a href="https://www.conmet.com/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="TypeScript"></a> <a href="https://www.conmet.com/" target="_blank"><img src="https://img.shields.io/badge/WebGL-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="WebGL"></a> <a href="https://www.conmet.com/" target="_blank"><img src="https://img.shields.io/badge/Three.js-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Three.js"></a> <a href="https://www.conmet.com/" target="_blank"><img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Java"></a> <a href="https://www.conmet.com/" target="_blank"><img src="https://img.shields.io/badge/Spring_Boot-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Spring Boot"></a> <a href="https://www.conmet.com/" target="_blank"><img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Node.js"></a> <a href="https://www.conmet.com/" target="_blank"><img src="https://img.shields.io/badge/Kafka-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Kafka"></a> <a href="https://www.conmet.com/" target="_blank"><img src="https://img.shields.io/badge/Cassandra-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Cassandra"></a> <a href="https://www.conmet.com/" target="_blank"><img src="https://img.shields.io/badge/Redis-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Redis"></a> <a href="https://www.conmet.com/" target="_blank"><img src="https://img.shields.io/badge/AWS_EKS-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="AWS EKS"></a>
+
 </td></tr>
 </table>
 
@@ -312,6 +315,8 @@ Built a mission-critical fraud monitoring platform using Java, Spring Boot, Kafk
 - Deployed containerized services on Azure Kubernetes Service using Terraform.
 - Built Jenkins CI/CD pipelines with JUnit, Mockito, Postman, and Cypress test suites.
 - Implemented monitoring and anomaly detection using Prometheus, Grafana, ELK Stack, and Splunk.
+
+<a href="https://www.hdfcbank.com/" target="_blank"><img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Java"></a> <a href="https://www.hdfcbank.com/" target="_blank"><img src="https://img.shields.io/badge/Spring_Boot-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Spring Boot"></a> <a href="https://www.hdfcbank.com/" target="_blank"><img src="https://img.shields.io/badge/Kafka_Streams-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Kafka Streams"></a> <a href="https://www.hdfcbank.com/" target="_blank"><img src="https://img.shields.io/badge/Redis-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Redis"></a> <a href="https://www.hdfcbank.com/" target="_blank"><img src="https://img.shields.io/badge/React-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="React"></a> <a href="https://www.hdfcbank.com/" target="_blank"><img src="https://img.shields.io/badge/Azure_AKS-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Azure AKS"></a> <a href="https://www.hdfcbank.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Docker"></a> <a href="https://www.hdfcbank.com/" target="_blank"><img src="https://img.shields.io/badge/Jenkins-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Jenkins"></a> <a href="https://www.hdfcbank.com/" target="_blank"><img src="https://img.shields.io/badge/Prometheus-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Prometheus"></a> <a href="https://www.hdfcbank.com/" target="_blank"><img src="https://img.shields.io/badge/Grafana-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Grafana"></a>
 
 </td></tr>
 </table>
@@ -333,6 +338,8 @@ Developed healthcare applications using Java, Spring Boot, React, Docker, Terraf
 - Built Kafka Streams jobs for real-time patient vitals and alert processing.
 - Created API documentation and technical runbooks using Confluence and Swagger.
 
+<a href="https://www.apollohospitals.com/" target="_blank"><img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Java"></a> <a href="https://www.apollohospitals.com/" target="_blank"><img src="https://img.shields.io/badge/Spring_Boot-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Spring Boot"></a> <a href="https://www.apollohospitals.com/" target="_blank"><img src="https://img.shields.io/badge/React-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="React"></a> <a href="https://www.apollohospitals.com/" target="_blank"><img src="https://img.shields.io/badge/GCP_GKE-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="GCP GKE"></a> <a href="https://www.apollohospitals.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Docker"></a> <a href="https://www.apollohospitals.com/" target="_blank"><img src="https://img.shields.io/badge/Terraform-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Terraform"></a> <a href="https://www.apollohospitals.com/" target="_blank"><img src="https://img.shields.io/badge/Kafka_Streams-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Kafka Streams"></a> <a href="https://www.apollohospitals.com/" target="_blank"><img src="https://img.shields.io/badge/Cassandra-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Cassandra"></a> <a href="https://www.apollohospitals.com/" target="_blank"><img src="https://img.shields.io/badge/Redis-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Redis"></a> <a href="https://www.apollohospitals.com/" target="_blank"><img src="https://img.shields.io/badge/Prometheus-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Prometheus"></a> <a href="https://www.apollohospitals.com/" target="_blank"><img src="https://img.shields.io/badge/Grafana-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Grafana"></a>
+
 </td></tr>
 </table>
 
@@ -347,7 +354,7 @@ Developed healthcare applications using Java, Spring Boot, React, Docker, Terraf
 ### Core Transformation & Cloud Modernization
 Migrated legacy banking systems into scalable cloud-native microservices using Java, Spring Boot, AWS/Azure, Docker, Kubernetes, and CI/CD automation.
 
-<img src="https://img.shields.io/badge/Java-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Java"> <img src="https://img.shields.io/badge/Spring_Boot-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Spring Boot"> <img src="https://img.shields.io/badge/Angular-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Angular"> <img src="https://img.shields.io/badge/AWS-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="AWS"> <img src="https://img.shields.io/badge/Azure-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Azure"> <img src="https://img.shields.io/badge/Kubernetes-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Kubernetes"> <img src="https://img.shields.io/badge/Docker-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Docker"> <img src="https://img.shields.io/badge/Jenkins-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Jenkins"> <img src="https://img.shields.io/badge/PostgreSQL-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="PostgreSQL"> <img src="https://img.shields.io/badge/Prometheus-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Prometheus"> <img src="https://img.shields.io/badge/Grafana-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Grafana">
+<a href="https://www.cuatlanta.org/" target="_blank"><img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Java"></a> <a href="https://www.cuatlanta.org/" target="_blank"><img src="https://img.shields.io/badge/Spring_Boot-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Spring Boot"></a> <a href="https://www.cuatlanta.org/" target="_blank"><img src="https://img.shields.io/badge/Angular-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Angular"></a> <a href="https://www.cuatlanta.org/" target="_blank"><img src="https://img.shields.io/badge/AWS-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="AWS"></a> <a href="https://www.cuatlanta.org/" target="_blank"><img src="https://img.shields.io/badge/Azure-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Azure"></a> <a href="https://www.cuatlanta.org/" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Kubernetes"></a> <a href="https://www.cuatlanta.org/" target="_blank"><img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Docker"></a> <a href="https://www.cuatlanta.org/" target="_blank"><img src="https://img.shields.io/badge/Jenkins-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Jenkins"></a> <a href="https://www.cuatlanta.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="PostgreSQL"></a> <a href="https://www.cuatlanta.org/" target="_blank"><img src="https://img.shields.io/badge/Prometheus-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Prometheus"></a> <a href="https://www.cuatlanta.org/" target="_blank"><img src="https://img.shields.io/badge/Grafana-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Grafana"></a>
 
 **Impact:** Improved scalability, deployment reliability, monitoring, and modernization readiness for core banking services.
 
@@ -360,7 +367,7 @@ Migrated legacy banking systems into scalable cloud-native microservices using J
 ### Intelligent Health Data Exchange Platform
 Built secure healthcare data exchange services integrating FHIR/HL7 pipelines, REST APIs, GraphQL, Kafka, and React-based care coordination dashboards.
 
-<img src="https://img.shields.io/badge/Java-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Java"> <img src="https://img.shields.io/badge/Spring_Boot-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Spring Boot"> <img src="https://img.shields.io/badge/React-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="React"> <img src="https://img.shields.io/badge/Kafka-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Kafka"> <img src="https://img.shields.io/badge/FHIR-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="FHIR"> <img src="https://img.shields.io/badge/GraphQL-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="GraphQL"> <img src="https://img.shields.io/badge/AWS_EKS-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="AWS EKS"> <img src="https://img.shields.io/badge/Terraform-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Terraform"> <img src="https://img.shields.io/badge/PostgreSQL-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="PostgreSQL"> <img src="https://img.shields.io/badge/MongoDB-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="MongoDB">
+<a href="https://www.centene.com/" target="_blank"><img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Java"></a> <a href="https://www.centene.com/" target="_blank"><img src="https://img.shields.io/badge/Spring_Boot-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Spring Boot"></a> <a href="https://www.centene.com/" target="_blank"><img src="https://img.shields.io/badge/React-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="React"></a> <a href="https://www.centene.com/" target="_blank"><img src="https://img.shields.io/badge/Kafka-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Kafka"></a> <a href="https://www.centene.com/" target="_blank"><img src="https://img.shields.io/badge/FHIR-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="FHIR"></a> <a href="https://www.centene.com/" target="_blank"><img src="https://img.shields.io/badge/GraphQL-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="GraphQL"></a> <a href="https://www.centene.com/" target="_blank"><img src="https://img.shields.io/badge/AWS_EKS-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="AWS EKS"></a> <a href="https://www.centene.com/" target="_blank"><img src="https://img.shields.io/badge/Terraform-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Terraform"></a> <a href="https://www.centene.com/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="PostgreSQL"></a> <a href="https://www.centene.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="MongoDB"></a>
 
 **Impact:** Enabled secure healthcare interoperability, real-time insights, and improved care workflow visibility.
 
@@ -373,7 +380,7 @@ Built secure healthcare data exchange services integrating FHIR/HL7 pipelines, R
 ### Real-Time Transaction Fraud Monitoring Platform
 Designed event-driven fraud monitoring services using Spring Boot microservices, Kafka Streams, Redis, React dashboards, and Azure Kubernetes Service.
 
-<img src="https://img.shields.io/badge/Java-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Java"> <img src="https://img.shields.io/badge/Spring_Boot-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Spring Boot"> <img src="https://img.shields.io/badge/Kafka_Streams-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Kafka Streams"> <img src="https://img.shields.io/badge/Redis-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Redis"> <img src="https://img.shields.io/badge/React-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="React"> <img src="https://img.shields.io/badge/Azure_AKS-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Azure AKS"> <img src="https://img.shields.io/badge/Docker-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Docker"> <img src="https://img.shields.io/badge/Jenkins-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Jenkins"> <img src="https://img.shields.io/badge/Prometheus-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Prometheus"> <img src="https://img.shields.io/badge/Grafana-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Grafana">
+<a href="https://www.hdfcbank.com/" target="_blank"><img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Java"></a> <a href="https://www.hdfcbank.com/" target="_blank"><img src="https://img.shields.io/badge/Spring_Boot-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Spring Boot"></a> <a href="https://www.hdfcbank.com/" target="_blank"><img src="https://img.shields.io/badge/Kafka_Streams-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Kafka Streams"></a> <a href="https://www.hdfcbank.com/" target="_blank"><img src="https://img.shields.io/badge/Redis-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Redis"></a> <a href="https://www.hdfcbank.com/" target="_blank"><img src="https://img.shields.io/badge/React-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="React"></a> <a href="https://www.hdfcbank.com/" target="_blank"><img src="https://img.shields.io/badge/Azure_AKS-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Azure AKS"></a> <a href="https://www.hdfcbank.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Docker"></a> <a href="https://www.hdfcbank.com/" target="_blank"><img src="https://img.shields.io/badge/Jenkins-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Jenkins"></a> <a href="https://www.hdfcbank.com/" target="_blank"><img src="https://img.shields.io/badge/Prometheus-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Prometheus"></a> <a href="https://www.hdfcbank.com/" target="_blank"><img src="https://img.shields.io/badge/Grafana-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Grafana"></a>
 
 **Impact:** Supported real-time transaction scoring, fraud detection workflows, and scalable financial monitoring.
 
@@ -386,7 +393,7 @@ Designed event-driven fraud monitoring services using Spring Boot microservices,
 ### Deep Zoom CAD Visualization & Fleet Insights Platform
 Developed a cloud-native platform for high-fidelity CAD visualization and real-time fleet telemetry using React, WebGL, Spring Boot, Node.js, Kafka, and AWS EKS.
 
-<img src="https://img.shields.io/badge/React-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="React"> <img src="https://img.shields.io/badge/TypeScript-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="TypeScript"> <img src="https://img.shields.io/badge/WebGL-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="WebGL"> <img src="https://img.shields.io/badge/Three.js-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Three.js"> <img src="https://img.shields.io/badge/Java-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Java"> <img src="https://img.shields.io/badge/Spring_Boot-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Spring Boot"> <img src="https://img.shields.io/badge/Node.js-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Node.js"> <img src="https://img.shields.io/badge/Kafka-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Kafka"> <img src="https://img.shields.io/badge/Cassandra-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Cassandra"> <img src="https://img.shields.io/badge/Redis-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Redis"> <img src="https://img.shields.io/badge/AWS_EKS-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="AWS EKS">
+<a href="https://www.conmet.com/" target="_blank"><img src="https://img.shields.io/badge/React-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="React"></a> <a href="https://www.conmet.com/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="TypeScript"></a> <a href="https://www.conmet.com/" target="_blank"><img src="https://img.shields.io/badge/WebGL-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="WebGL"></a> <a href="https://www.conmet.com/" target="_blank"><img src="https://img.shields.io/badge/Three.js-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Three.js"></a> <a href="https://www.conmet.com/" target="_blank"><img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Java"></a> <a href="https://www.conmet.com/" target="_blank"><img src="https://img.shields.io/badge/Spring_Boot-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Spring Boot"></a> <a href="https://www.conmet.com/" target="_blank"><img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Node.js"></a> <a href="https://www.conmet.com/" target="_blank"><img src="https://img.shields.io/badge/Kafka-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Kafka"></a> <a href="https://www.conmet.com/" target="_blank"><img src="https://img.shields.io/badge/Cassandra-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Cassandra"></a> <a href="https://www.conmet.com/" target="_blank"><img src="https://img.shields.io/badge/Redis-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Redis"></a> <a href="https://www.conmet.com/" target="_blank"><img src="https://img.shields.io/badge/AWS_EKS-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="AWS EKS"></a>
 
 **Impact:** Delivered interactive visualization, real-time telemetry processing, and scalable IoT analytics.
 
@@ -399,7 +406,7 @@ Developed a cloud-native platform for high-fidelity CAD visualization and real-t
 ### Clinical Intelligence Engine & Connected Care Platform
 Built clinician-facing healthcare applications with real-time vitals processing, FHIR integration, Spring Boot services, React dashboards, and GCP Kubernetes deployment.
 
-<img src="https://img.shields.io/badge/Java-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Java"> <img src="https://img.shields.io/badge/Spring_Boot-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Spring Boot"> <img src="https://img.shields.io/badge/React-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="React"> <img src="https://img.shields.io/badge/GCP_GKE-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="GCP GKE"> <img src="https://img.shields.io/badge/Docker-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Docker"> <img src="https://img.shields.io/badge/Terraform-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Terraform"> <img src="https://img.shields.io/badge/Kafka_Streams-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Kafka Streams"> <img src="https://img.shields.io/badge/Cassandra-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Cassandra"> <img src="https://img.shields.io/badge/Redis-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Redis"> <img src="https://img.shields.io/badge/Prometheus-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Prometheus"> <img src="https://img.shields.io/badge/Grafana-0f141b?style=flat-square&labelColor=0f141b&color=30363d" alt="Grafana">
+<a href="https://www.apollohospitals.com/" target="_blank"><img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Java"></a> <a href="https://www.apollohospitals.com/" target="_blank"><img src="https://img.shields.io/badge/Spring_Boot-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Spring Boot"></a> <a href="https://www.apollohospitals.com/" target="_blank"><img src="https://img.shields.io/badge/React-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="React"></a> <a href="https://www.apollohospitals.com/" target="_blank"><img src="https://img.shields.io/badge/GCP_GKE-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="GCP GKE"></a> <a href="https://www.apollohospitals.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Docker"></a> <a href="https://www.apollohospitals.com/" target="_blank"><img src="https://img.shields.io/badge/Terraform-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Terraform"></a> <a href="https://www.apollohospitals.com/" target="_blank"><img src="https://img.shields.io/badge/Kafka_Streams-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Kafka Streams"></a> <a href="https://www.apollohospitals.com/" target="_blank"><img src="https://img.shields.io/badge/Cassandra-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Cassandra"></a> <a href="https://www.apollohospitals.com/" target="_blank"><img src="https://img.shields.io/badge/Redis-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Redis"></a> <a href="https://www.apollohospitals.com/" target="_blank"><img src="https://img.shields.io/badge/Prometheus-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Prometheus"></a> <a href="https://www.apollohospitals.com/" target="_blank"><img src="https://img.shields.io/badge/Grafana-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Grafana"></a>
 
 **Impact:** Improved clinical alerting, patient data visibility, and healthcare platform reliability.
 
@@ -463,16 +470,15 @@ Prometheus, Grafana, ELK Stack, Splunk, production monitoring, performance optim
 <!-- ===================== GITHUB ANALYTICS ===================== -->
 ## GitHub Analytics
 
-<table width="100%">
-<tr>
-<td width="50%" align="center">
-<a href="https://github.com/sivad5712"><img src="https://github-readme-stats.vercel.app/api?username=sivad5712&theme=github_dark&hide_border=true&show_icons=true&bg_color=0d1117&title_color=2f81f7&icon_color=2f81f7&text_color=8b949e" alt="GitHub Stats"></a>
-</td>
-<td width="50%" align="center">
-<a href="https://github.com/sivad5712"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivad5712&theme=github_dark&hide_border=true&layout=compact&bg_color=0d1117&title_color=2f81f7&text_color=8b949e" alt="Top Languages"></a>
-</td>
-</tr>
-</table>
+<div align="center">
+
+<sub>Most-used languages based on my public GitHub repositories.</sub>
+
+<br>
+
+<a href="https://github.com/sivad5712"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivad5712&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2f81f7&text_color=8b949e" alt="Most used languages by sivad5712" height="160"></a>
+
+</div>
 
 <br>
 
