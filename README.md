@@ -30,6 +30,12 @@ Senior Software Engineer with 8 years of experience designing, building, deployi
 
 <br>
 
+<div align="center">
+
+---
+
+</div>
+
 <!-- ===================== PROFESSIONAL SNAPSHOT ===================== -->
 ## Professional Snapshot
 
@@ -48,6 +54,11 @@ Senior Software Engineer with 8 years of experience designing, building, deployi
 | **Open To** | Senior Software Engineer, Backend Engineer, Cloud Engineer, DevOps-focused Software Engineering roles |
 
 <br>
+<div align="center">
+
+---
+
+</div>
 
 <!-- ===================== TECHNICAL STACK ===================== -->
 ## Technical Stack
@@ -229,6 +240,12 @@ Senior Software Engineer with 8 years of experience designing, building, deployi
 
 <br>
 
+<div align="center">
+
+---
+
+</div>
+
 <!-- ===================== PROFESSIONAL EXPERIENCE ===================== -->
 ## Professional Experience
 
@@ -344,6 +361,12 @@ Developed healthcare applications using Java, Spring Boot, React, Docker, Terraf
 
 <br>
 
+<div align="center">
+
+---
+
+</div>
+
 <!-- ===================== FEATURED PROJECTS ===================== -->
 ## Featured Engineering Projects
 
@@ -413,6 +436,12 @@ Built clinician-facing healthcare applications with real-time vitals processing,
 </table>
 
 <br>
+
+<div align="center">
+
+---
+
+</div>
 
 <!-- ===================== ENGINEERING FOCUS ===================== -->
 ## Engineering Focus
@@ -495,6 +524,12 @@ Improving production reliability through monitoring, logging, alerting, performa
 
 <br>
 
+<div align="center">
+
+---
+
+</div>
+
 <!-- ===================== ENGINEERING IMPACT ===================== -->
 ## Engineering Impact
 
@@ -507,56 +542,69 @@ Improving production reliability through monitoring, logging, alerting, performa
 
 <br>
 
+<div align="center">
+
+---
+
+</div>
+
 <!-- ===================== CERTIFICATIONS ===================== -->
 ## Certifications
 
 <sub>Validated expertise across Java engineering, cloud platforms, solution architecture, and enterprise software delivery.</sub>
 
 <table width="100%">
-<tr><td valign="top">
+<tr><td valign="top" width="50%">
 
-**Cloud & Architecture**
+&nbsp;**Cloud & Architecture**
 
-<table width="100%">
-<tr><td valign="top">
+<br>
 
-`OCI` &nbsp; Oracle Cloud Infrastructure 2025 Certified Developer Professional
+\`OCI\` &nbsp; Oracle Cloud Infrastructure 2025 Certified Developer Professional
 
-`OCI GenAI` &nbsp; Oracle Cloud Infrastructure 2025 Certified Generative AI Professional
+<br>
 
-`Azure` &nbsp; Microsoft Azure Fundamentals
+\`OCI GenAI\` &nbsp; Oracle Cloud Infrastructure 2025 Certified Generative AI Professional
 
-`AWS` &nbsp; AWS Certified Developer
+<br>
 
-`Architecture` &nbsp; Microsoft Solution Architecture
+\`Azure\` &nbsp; Microsoft Azure Fundamentals
 
-</td></tr>
-</table>
+<br>
 
-</td></tr>
-</table>
+\`AWS\` &nbsp; AWS Certified Developer
 
-<table width="100%">
-<tr><td valign="top">
+<br>
 
-**Java & Software Engineering**
+\`Architecture\` &nbsp; Microsoft Solution Architecture
 
-<table width="100%">
-<tr><td valign="top">
+</td>
+<td valign="top" width="50%">
 
-`Java` &nbsp; Oracle Java SE 11 Developer
+&nbsp;**Java & Software Engineering**
 
-`Java` &nbsp; Oracle Java SE 8 Programmer
+<br>
 
-`Simulation` &nbsp; Software Engineering Job Simulation by JP Morgan Chase &amp; Co
+\`Java\` &nbsp; Oracle Java SE 11 Developer
 
-</td></tr>
-</table>
+<br>
+
+\`Java\` &nbsp; Oracle Java SE 8 Programmer
+
+<br>
+
+\`Simulation\` &nbsp; Software Engineering Job Simulation by JP Morgan Chase &amp; Co
 
 </td></tr>
 </table>
 
 <br>
+
+<div align="center">
+
+---
+
+</div>
 
 <!-- ===================== FOOTER ===================== -->
 <table width="100%">
