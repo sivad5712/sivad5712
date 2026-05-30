@@ -418,12 +418,13 @@ Built clinician-facing healthcare applications with real-time vitals processing,
 ## Engineering Focus
 
 <table width="100%">
-<tr>
-<td width="50%" valign="top">
+<tr><td valign="top">
 
 **Backend & Distributed Systems**
 
 Designing scalable backend platforms using Java, Spring Boot, REST APIs, GraphQL, Kafka, Redis, and microservices patterns. Focused on clean architecture, secure service communication, performance optimization, and reliable distributed workflows.
+
+<sub>**Key areas**</sub>
 
 - Java / Spring Boot microservices
 - REST and GraphQL API design
@@ -432,12 +433,17 @@ Designing scalable backend platforms using Java, Spring Boot, REST APIs, GraphQL
 - Redis caching and performance tuning
 - Secure API development with OAuth2 and JWT
 
-</td>
-<td width="50%" valign="top">
+</td></tr>
+</table>
+
+<table width="100%">
+<tr><td valign="top">
 
 **Cloud-Native Engineering**
 
 Building and deploying enterprise applications across AWS, Azure, and GCP using containers, Kubernetes, infrastructure as code, and cloud-native services for scalability, resilience, and operational efficiency.
+
+<sub>**Key areas**</sub>
 
 - AWS EKS, EC2, S3, Lambda, RDS, IAM
 - Azure AKS, Azure Functions, App Services, Azure SQL
@@ -446,14 +452,17 @@ Building and deploying enterprise applications across AWS, Azure, and GCP using 
 - Terraform, Helm, and CloudFormation
 - Cloud modernization and migration
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+</td></tr>
+</table>
+
+<table width="100%">
+<tr><td valign="top">
 
 **DevOps & Delivery Automation**
 
 Creating reliable CI/CD workflows and automated release pipelines that improve delivery speed, reduce deployment risk, and support production-grade engineering teams.
+
+<sub>**Key areas**</sub>
 
 - Jenkins and GitHub Actions pipelines
 - Dockerized build and deployment workflows
@@ -462,12 +471,17 @@ Creating reliable CI/CD workflows and automated release pipelines that improve d
 - Environment-specific Kubernetes configuration
 - Zero-downtime deployment practices
 
-</td>
-<td width="50%" valign="top">
+</td></tr>
+</table>
+
+<table width="100%">
+<tr><td valign="top">
 
 **Observability, Reliability & Production Support**
 
 Improving production reliability through monitoring, logging, alerting, performance tuning, and incident troubleshooting across distributed systems.
+
+<sub>**Key areas**</sub>
 
 - Prometheus metrics and Grafana dashboards
 - ELK Stack centralized logging
@@ -476,8 +490,7 @@ Improving production reliability through monitoring, logging, alerting, performa
 - Incident troubleshooting and root cause analysis
 - Proactive monitoring for reduced downtime
 
-</td>
-</tr>
+</td></tr>
 </table>
 
 <br>
@@ -497,73 +510,51 @@ Improving production reliability through monitoring, logging, alerting, performa
 <!-- ===================== CERTIFICATIONS ===================== -->
 ## Certifications
 
+<sub>Validated expertise across Java engineering, cloud platforms, solution architecture, and enterprise software delivery.</sub>
+
 <table width="100%">
-<tr>
-<td width="50%" valign="top">
+<tr><td valign="top">
 
-<img src="https://img.shields.io/badge/Java-161b22?style=flat-square&labelColor=161b22&color=30363d&logoColor=f0f6fc" alt="Java" height="22"> &nbsp; **Oracle Java SE 11 Developer**
+**Cloud & Architecture**
 
-</td>
-<td width="50%" valign="top">
+<table width="100%">
+<tr><td valign="top">
 
-<img src="https://img.shields.io/badge/OCI-161b22?style=flat-square&labelColor=161b22&color=30363d&logoColor=f0f6fc" alt="OCI" height="22"> &nbsp; **Oracle Cloud Infrastructure 2025 Certified Developer Professional**
+`OCI` &nbsp; Oracle Cloud Infrastructure 2025 Certified Developer Professional
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+`OCI GenAI` &nbsp; Oracle Cloud Infrastructure 2025 Certified Generative AI Professional
 
-<img src="https://img.shields.io/badge/OCI_GenAI-161b22?style=flat-square&labelColor=161b22&color=30363d&logoColor=f0f6fc" alt="OCI GenAI" height="22"> &nbsp; **Oracle Cloud Infrastructure 2025 Certified Generative AI Professional**
+`Azure` &nbsp; Microsoft Azure Fundamentals
 
-</td>
-<td width="50%" valign="top">
+`AWS` &nbsp; AWS Certified Developer
 
-<img src="https://img.shields.io/badge/Azure-161b22?style=flat-square&labelColor=161b22&color=30363d&logoColor=f0f6fc" alt="Azure" height="22"> &nbsp; **Microsoft Azure Fundamentals**
+`Architecture` &nbsp; Microsoft Solution Architecture
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<img src="https://img.shields.io/badge/Java-161b22?style=flat-square&labelColor=161b22&color=30363d&logoColor=f0f6fc" alt="Java" height="22"> &nbsp; **Oracle Java SE 8 Programmer**
-
-</td>
-<td width="50%" valign="top">
-
-<img src="https://img.shields.io/badge/AWS-161b22?style=flat-square&labelColor=161b22&color=30363d&logoColor=f0f6fc" alt="AWS" height="22"> &nbsp; **AWS Certified Developer**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<img src="https://img.shields.io/badge/Architecture-161b22?style=flat-square&labelColor=161b22&color=30363d&logoColor=f0f6fc" alt="Architecture" height="22"> &nbsp; **Microsoft Solution Architecture**
-
-</td>
-<td width="50%" valign="top">
-
-<img src="https://img.shields.io/badge/Simulation-161b22?style=flat-square&labelColor=161b22&color=30363d&logoColor=f0f6fc" alt="Simulation" height="22"> &nbsp; **Software Engineering Job Simulation by JP Morgan Chase &amp; Co**
-
-</td>
-</tr>
+</td></tr>
 </table>
 
-<br>
+</td></tr>
+</table>
 
-<!-- ===================== GITHUB ANALYTICS ===================== -->
-## GitHub Analytics
+<table width="100%">
+<tr><td valign="top">
 
-<div align="center">
+**Java & Software Engineering**
 
-<sub>GitHub activity and most-used languages based on my public repositories.</sub>
+<table width="100%">
+<tr><td valign="top">
 
-<br>
+`Java` &nbsp; Oracle Java SE 11 Developer
 
-<a href="https://github.com/sivad5712"><img src="https://github-readme-stats.vercel.app/api?username=sivad5712&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=2f81f7&text_color=8b949e&icon_color=2f81f7" alt="GitHub stats for sivad5712" height="160"></a>
-&nbsp;
-<a href="https://github.com/sivad5712"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivad5712&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2f81f7&text_color=8b949e" alt="Most used languages by sivad5712" height="160"></a>
+`Java` &nbsp; Oracle Java SE 8 Programmer
 
-</div>
+`Simulation` &nbsp; Software Engineering Job Simulation by JP Morgan Chase &amp; Co
+
+</td></tr>
+</table>
+
+</td></tr>
+</table>
 
 <br>
 
