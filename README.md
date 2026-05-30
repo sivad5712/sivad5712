@@ -551,54 +551,30 @@ Improving production reliability through monitoring, logging, alerting, performa
 <!-- ===================== CERTIFICATIONS ===================== -->
 ## Certifications
 
-<sub>Validated expertise across Java engineering, cloud platforms, solution architecture, and enterprise software delivery.</sub>
+Validated expertise across Java engineering, cloud platforms, solution architecture, and enterprise software delivery.
 
-<table width="100%">
-<tr><td valign="top" width="50%">
+<table>
+<tr><td>
 
-&nbsp;**Cloud & Architecture**
+**Cloud & Architecture**
 
-<br>
+**[OCI]** &nbsp; Oracle Cloud Infrastructure 2025 Certified Developer Professional  
+**[OCI GenAI]** &nbsp; Oracle Cloud Infrastructure 2025 Certified Generative AI Professional  
+**[Azure]** &nbsp; Microsoft Azure Fundamentals  
+**[AWS]** &nbsp; AWS Certified Developer  
+**[Architecture]** &nbsp; Microsoft Solution Architecture  
 
-\`OCI\` &nbsp; Oracle Cloud Infrastructure 2025 Certified Developer Professional
+</td></tr>
+<tr><td>
 
-<br>
+**Java & Software Engineering**
 
-\`OCI GenAI\` &nbsp; Oracle Cloud Infrastructure 2025 Certified Generative AI Professional
-
-<br>
-
-\`Azure\` &nbsp; Microsoft Azure Fundamentals
-
-<br>
-
-\`AWS\` &nbsp; AWS Certified Developer
-
-<br>
-
-\`Architecture\` &nbsp; Microsoft Solution Architecture
-
-</td>
-<td valign="top" width="50%">
-
-&nbsp;**Java & Software Engineering**
-
-<br>
-
-\`Java\` &nbsp; Oracle Java SE 11 Developer
-
-<br>
-
-\`Java\` &nbsp; Oracle Java SE 8 Programmer
-
-<br>
-
-\`Simulation\` &nbsp; Software Engineering Job Simulation by JP Morgan Chase &amp; Co
+**[Java]** &nbsp; Oracle Java SE 11 Developer  
+**[Java]** &nbsp; Oracle Java SE 8 Programmer  
+**[Simulation]** &nbsp; Software Engineering Job Simulation by JP Morgan Chase & Co  
 
 </td></tr>
 </table>
-
-<br>
 
 <div align="center">
 
