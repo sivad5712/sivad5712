@@ -11,14 +11,13 @@
 
 Senior Software Engineer with 8 years of experience designing, building, deploying, and optimizing high-performance enterprise applications across banking, healthcare, fraud detection, cloud modernization, real-time data processing, and distributed systems.
 
-<img src="https://img.shields.io/badge/%F0%9F%93%8D_United_States-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="United States">
-<img src="https://img.shields.io/badge/Open_to_Senior_Software_Engineer_opportunities-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="Open to opportunities">
+<sub>📍 United States &nbsp;•&nbsp; Open to Senior Software Engineer opportunities</sub>
 
 </div>
 
 <!-- ===================== ACTION BUTTONS ===================== -->
 <p align="center">
-<a href="https://sivad.abacusai.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2f81f7?style=for-the-badge&labelColor=2f81f7&color=2f81f7&logoColor=f0f6fc" alt="Portfolio" height="32"></a>
+<a href="https://sivad.abacusai.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-161b22?style=for-the-badge&labelColor=161b22&color=30363d&logoColor=f0f6fc" alt="Portfolio" height="32"></a>
 &nbsp;
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Download_Resume_(PDF)-161b22?style=for-the-badge&labelColor=161b22&color=30363d&logoColor=f0f6fc" alt="Download Resume (PDF)" height="32"></a>
 &nbsp;
@@ -237,7 +236,7 @@ Senior Software Engineer with 8 years of experience designing, building, deployi
 <tr><td>
 
 ### Senior Software Engineer
-**Credit Union of Atlanta** &nbsp;·&nbsp; <sub>Dec 2024 – Present</sub>
+**<a href="https://www.cuatlanta.org/" target="_blank">Credit Union of Atlanta</a>** &nbsp;·&nbsp; <sub>Dec 2024 – Present</sub>
 
 > **Project:** Core Transformation & Cloud Modernization
 
@@ -250,7 +249,7 @@ Modernized legacy monolithic Java systems into cloud-native microservices using 
 - Improved PostgreSQL query performance and supported high-volume transactional data processing.
 - Implemented observability using Prometheus and Grafana for proactive monitoring and reduced downtime.
 
-<a href="https://www.cuatlanta.org/" target="_blank"><img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Java"></a> <a href="https://www.cuatlanta.org/" target="_blank"><img src="https://img.shields.io/badge/Spring_Boot-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Spring Boot"></a> <a href="https://www.cuatlanta.org/" target="_blank"><img src="https://img.shields.io/badge/Angular-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Angular"></a> <a href="https://www.cuatlanta.org/" target="_blank"><img src="https://img.shields.io/badge/AWS-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="AWS"></a> <a href="https://www.cuatlanta.org/" target="_blank"><img src="https://img.shields.io/badge/Azure-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Azure"></a> <a href="https://www.cuatlanta.org/" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Kubernetes"></a> <a href="https://www.cuatlanta.org/" target="_blank"><img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Docker"></a> <a href="https://www.cuatlanta.org/" target="_blank"><img src="https://img.shields.io/badge/Jenkins-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Jenkins"></a> <a href="https://www.cuatlanta.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="PostgreSQL"></a> <a href="https://www.cuatlanta.org/" target="_blank"><img src="https://img.shields.io/badge/Prometheus-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Prometheus"></a> <a href="https://www.cuatlanta.org/" target="_blank"><img src="https://img.shields.io/badge/Grafana-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Grafana"></a>
+<a href="https://www.oracle.com/java/" target="_blank"><img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Java"></a> <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://img.shields.io/badge/Spring_Boot-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Spring Boot"></a> <a href="https://angular.dev/" target="_blank"><img src="https://img.shields.io/badge/Angular-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Angular"></a> <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/AWS-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="AWS"></a> <a href="https://azure.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/Azure-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Azure"></a> <a href="https://kubernetes.io/" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Kubernetes"></a> <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Docker"></a> <a href="https://www.jenkins.io/" target="_blank"><img src="https://img.shields.io/badge/Jenkins-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Jenkins"></a> <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="PostgreSQL"></a> <a href="https://prometheus.io/" target="_blank"><img src="https://img.shields.io/badge/Prometheus-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Prometheus"></a> <a href="https://grafana.com/" target="_blank"><img src="https://img.shields.io/badge/Grafana-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Grafana"></a>
 
 </td></tr>
 </table>
@@ -259,7 +258,7 @@ Modernized legacy monolithic Java systems into cloud-native microservices using 
 <tr><td>
 
 ### Senior Software Engineer
-**Centene Corporation** &nbsp;·&nbsp; <sub>Feb 2024 – Nov 2024</sub>
+**<a href="https://www.centene.com/" target="_blank">Centene Corporation</a>** &nbsp;·&nbsp; <sub>Feb 2024 – Nov 2024</sub>
 
 > **Project:** Intelligent Health Data Exchange & Care-Insights Platform
 
@@ -272,7 +271,7 @@ Built a secure healthcare data exchange platform using Java, Spring Boot, Node.j
 - Maintained Jenkins CI/CD pipelines for Dockerized services on AWS EKS.
 - Improved monitoring and MTTR using Prometheus and Grafana.
 
-<a href="https://www.centene.com/" target="_blank"><img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Java"></a> <a href="https://www.centene.com/" target="_blank"><img src="https://img.shields.io/badge/Spring_Boot-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Spring Boot"></a> <a href="https://www.centene.com/" target="_blank"><img src="https://img.shields.io/badge/React-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="React"></a> <a href="https://www.centene.com/" target="_blank"><img src="https://img.shields.io/badge/Kafka-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Kafka"></a> <a href="https://www.centene.com/" target="_blank"><img src="https://img.shields.io/badge/FHIR-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="FHIR"></a> <a href="https://www.centene.com/" target="_blank"><img src="https://img.shields.io/badge/GraphQL-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="GraphQL"></a> <a href="https://www.centene.com/" target="_blank"><img src="https://img.shields.io/badge/AWS_EKS-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="AWS EKS"></a> <a href="https://www.centene.com/" target="_blank"><img src="https://img.shields.io/badge/Terraform-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Terraform"></a> <a href="https://www.centene.com/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="PostgreSQL"></a> <a href="https://www.centene.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="MongoDB"></a>
+<a href="https://www.oracle.com/java/" target="_blank"><img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Java"></a> <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://img.shields.io/badge/Spring_Boot-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Spring Boot"></a> <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/React-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="React"></a> <a href="https://kafka.apache.org/" target="_blank"><img src="https://img.shields.io/badge/Kafka-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Kafka"></a> <a href="https://www.hl7.org/fhir/" target="_blank"><img src="https://img.shields.io/badge/FHIR-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="FHIR"></a> <a href="https://graphql.org/" target="_blank"><img src="https://img.shields.io/badge/GraphQL-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="GraphQL"></a> <a href="https://aws.amazon.com/eks/" target="_blank"><img src="https://img.shields.io/badge/AWS_EKS-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="AWS EKS"></a> <a href="https://developer.hashicorp.com/terraform/intro" target="_blank"><img src="https://img.shields.io/badge/Terraform-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Terraform"></a> <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="PostgreSQL"></a> <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="MongoDB"></a>
 
 </td></tr>
 </table>
@@ -281,7 +280,7 @@ Built a secure healthcare data exchange platform using Java, Spring Boot, Node.j
 <tr><td>
 
 ### Senior Software Engineer
-**Conmet** &nbsp;·&nbsp; <sub>Sep 2023 – Feb 2024</sub>
+**<a href="https://www.conmet.com/" target="_blank">Conmet</a>** &nbsp;·&nbsp; <sub>Sep 2023 – Feb 2024</sub>
 
 > **Project:** Deep Zoom CAD Visualization & Fleet Insights Platform
 
@@ -294,7 +293,7 @@ Developed a cloud-native CAD visualization and real-time fleet analytics platfor
 - Implemented Redis caching for low-latency CAD thumbnails and KPI snapshots.
 - Established CI/CD workflows with GitHub Actions and automated testing.
 
-<a href="https://www.conmet.com/" target="_blank"><img src="https://img.shields.io/badge/React-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="React"></a> <a href="https://www.conmet.com/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="TypeScript"></a> <a href="https://www.conmet.com/" target="_blank"><img src="https://img.shields.io/badge/WebGL-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="WebGL"></a> <a href="https://www.conmet.com/" target="_blank"><img src="https://img.shields.io/badge/Three.js-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Three.js"></a> <a href="https://www.conmet.com/" target="_blank"><img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Java"></a> <a href="https://www.conmet.com/" target="_blank"><img src="https://img.shields.io/badge/Spring_Boot-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Spring Boot"></a> <a href="https://www.conmet.com/" target="_blank"><img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Node.js"></a> <a href="https://www.conmet.com/" target="_blank"><img src="https://img.shields.io/badge/Kafka-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Kafka"></a> <a href="https://www.conmet.com/" target="_blank"><img src="https://img.shields.io/badge/Cassandra-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Cassandra"></a> <a href="https://www.conmet.com/" target="_blank"><img src="https://img.shields.io/badge/Redis-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Redis"></a> <a href="https://www.conmet.com/" target="_blank"><img src="https://img.shields.io/badge/AWS_EKS-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="AWS EKS"></a>
+<a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/React-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="React"></a> <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="TypeScript"></a> <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API" target="_blank"><img src="https://img.shields.io/badge/WebGL-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="WebGL"></a> <a href="https://threejs.org/" target="_blank"><img src="https://img.shields.io/badge/Three.js-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Three.js"></a> <a href="https://www.oracle.com/java/" target="_blank"><img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Java"></a> <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://img.shields.io/badge/Spring_Boot-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Spring Boot"></a> <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Node.js"></a> <a href="https://kafka.apache.org/" target="_blank"><img src="https://img.shields.io/badge/Kafka-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Kafka"></a> <a href="https://cassandra.apache.org/" target="_blank"><img src="https://img.shields.io/badge/Cassandra-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Cassandra"></a> <a href="https://redis.io/" target="_blank"><img src="https://img.shields.io/badge/Redis-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Redis"></a> <a href="https://aws.amazon.com/eks/" target="_blank"><img src="https://img.shields.io/badge/AWS_EKS-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="AWS EKS"></a>
 
 </td></tr>
 </table>
@@ -303,7 +302,7 @@ Developed a cloud-native CAD visualization and real-time fleet analytics platfor
 <tr><td>
 
 ### Software Engineer
-**HDFC Bank** &nbsp;·&nbsp; <sub>Jul 2019 – Aug 2023</sub>
+**<a href="https://www.hdfcbank.com/" target="_blank">HDFC Bank</a>** &nbsp;·&nbsp; <sub>Jul 2019 – Aug 2023</sub>
 
 > **Project:** Real-Time Transaction Fraud Monitoring Platform
 
@@ -316,7 +315,7 @@ Built a mission-critical fraud monitoring platform using Java, Spring Boot, Kafk
 - Built Jenkins CI/CD pipelines with JUnit, Mockito, Postman, and Cypress test suites.
 - Implemented monitoring and anomaly detection using Prometheus, Grafana, ELK Stack, and Splunk.
 
-<a href="https://www.hdfcbank.com/" target="_blank"><img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Java"></a> <a href="https://www.hdfcbank.com/" target="_blank"><img src="https://img.shields.io/badge/Spring_Boot-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Spring Boot"></a> <a href="https://www.hdfcbank.com/" target="_blank"><img src="https://img.shields.io/badge/Kafka_Streams-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Kafka Streams"></a> <a href="https://www.hdfcbank.com/" target="_blank"><img src="https://img.shields.io/badge/Redis-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Redis"></a> <a href="https://www.hdfcbank.com/" target="_blank"><img src="https://img.shields.io/badge/React-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="React"></a> <a href="https://www.hdfcbank.com/" target="_blank"><img src="https://img.shields.io/badge/Azure_AKS-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Azure AKS"></a> <a href="https://www.hdfcbank.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Docker"></a> <a href="https://www.hdfcbank.com/" target="_blank"><img src="https://img.shields.io/badge/Jenkins-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Jenkins"></a> <a href="https://www.hdfcbank.com/" target="_blank"><img src="https://img.shields.io/badge/Prometheus-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Prometheus"></a> <a href="https://www.hdfcbank.com/" target="_blank"><img src="https://img.shields.io/badge/Grafana-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Grafana"></a>
+<a href="https://www.oracle.com/java/" target="_blank"><img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Java"></a> <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://img.shields.io/badge/Spring_Boot-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Spring Boot"></a> <a href="https://kafka.apache.org/documentation/streams/" target="_blank"><img src="https://img.shields.io/badge/Kafka_Streams-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Kafka Streams"></a> <a href="https://redis.io/" target="_blank"><img src="https://img.shields.io/badge/Redis-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Redis"></a> <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/React-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="React"></a> <a href="https://azure.microsoft.com/products/kubernetes-service" target="_blank"><img src="https://img.shields.io/badge/Azure_AKS-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Azure AKS"></a> <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Docker"></a> <a href="https://www.jenkins.io/" target="_blank"><img src="https://img.shields.io/badge/Jenkins-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Jenkins"></a> <a href="https://prometheus.io/" target="_blank"><img src="https://img.shields.io/badge/Prometheus-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Prometheus"></a> <a href="https://grafana.com/" target="_blank"><img src="https://img.shields.io/badge/Grafana-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Grafana"></a>
 
 </td></tr>
 </table>
@@ -325,7 +324,7 @@ Built a mission-critical fraud monitoring platform using Java, Spring Boot, Kafk
 <tr><td>
 
 ### Associate Software Engineer
-**Apollo Hospitals Enterprise Limited** &nbsp;·&nbsp; <sub>Jan 2017 – Jun 2019</sub>
+**<a href="https://www.apollohospitals.com/" target="_blank">Apollo Hospitals Enterprise Limited</a>** &nbsp;·&nbsp; <sub>Jan 2017 – Jun 2019</sub>
 
 > **Project:** Clinical Intelligence Engine & Connected Care Platform
 
@@ -338,7 +337,7 @@ Developed healthcare applications using Java, Spring Boot, React, Docker, Terraf
 - Built Kafka Streams jobs for real-time patient vitals and alert processing.
 - Created API documentation and technical runbooks using Confluence and Swagger.
 
-<a href="https://www.apollohospitals.com/" target="_blank"><img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Java"></a> <a href="https://www.apollohospitals.com/" target="_blank"><img src="https://img.shields.io/badge/Spring_Boot-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Spring Boot"></a> <a href="https://www.apollohospitals.com/" target="_blank"><img src="https://img.shields.io/badge/React-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="React"></a> <a href="https://www.apollohospitals.com/" target="_blank"><img src="https://img.shields.io/badge/GCP_GKE-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="GCP GKE"></a> <a href="https://www.apollohospitals.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Docker"></a> <a href="https://www.apollohospitals.com/" target="_blank"><img src="https://img.shields.io/badge/Terraform-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Terraform"></a> <a href="https://www.apollohospitals.com/" target="_blank"><img src="https://img.shields.io/badge/Kafka_Streams-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Kafka Streams"></a> <a href="https://www.apollohospitals.com/" target="_blank"><img src="https://img.shields.io/badge/Cassandra-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Cassandra"></a> <a href="https://www.apollohospitals.com/" target="_blank"><img src="https://img.shields.io/badge/Redis-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Redis"></a> <a href="https://www.apollohospitals.com/" target="_blank"><img src="https://img.shields.io/badge/Prometheus-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Prometheus"></a> <a href="https://www.apollohospitals.com/" target="_blank"><img src="https://img.shields.io/badge/Grafana-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Grafana"></a>
+<a href="https://www.oracle.com/java/" target="_blank"><img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Java"></a> <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://img.shields.io/badge/Spring_Boot-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Spring Boot"></a> <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/React-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="React"></a> <a href="https://cloud.google.com/kubernetes-engine" target="_blank"><img src="https://img.shields.io/badge/GCP_GKE-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="GCP GKE"></a> <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Docker"></a> <a href="https://developer.hashicorp.com/terraform/intro" target="_blank"><img src="https://img.shields.io/badge/Terraform-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Terraform"></a> <a href="https://kafka.apache.org/documentation/streams/" target="_blank"><img src="https://img.shields.io/badge/Kafka_Streams-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Kafka Streams"></a> <a href="https://cassandra.apache.org/" target="_blank"><img src="https://img.shields.io/badge/Cassandra-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Cassandra"></a> <a href="https://redis.io/" target="_blank"><img src="https://img.shields.io/badge/Redis-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Redis"></a> <a href="https://prometheus.io/" target="_blank"><img src="https://img.shields.io/badge/Prometheus-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Prometheus"></a> <a href="https://grafana.com/" target="_blank"><img src="https://img.shields.io/badge/Grafana-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Grafana"></a>
 
 </td></tr>
 </table>
@@ -354,7 +353,7 @@ Developed healthcare applications using Java, Spring Boot, React, Docker, Terraf
 ### Core Transformation & Cloud Modernization
 Migrated legacy banking systems into scalable cloud-native microservices using Java, Spring Boot, AWS/Azure, Docker, Kubernetes, and CI/CD automation.
 
-<a href="https://www.cuatlanta.org/" target="_blank"><img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Java"></a> <a href="https://www.cuatlanta.org/" target="_blank"><img src="https://img.shields.io/badge/Spring_Boot-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Spring Boot"></a> <a href="https://www.cuatlanta.org/" target="_blank"><img src="https://img.shields.io/badge/Angular-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Angular"></a> <a href="https://www.cuatlanta.org/" target="_blank"><img src="https://img.shields.io/badge/AWS-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="AWS"></a> <a href="https://www.cuatlanta.org/" target="_blank"><img src="https://img.shields.io/badge/Azure-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Azure"></a> <a href="https://www.cuatlanta.org/" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Kubernetes"></a> <a href="https://www.cuatlanta.org/" target="_blank"><img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Docker"></a> <a href="https://www.cuatlanta.org/" target="_blank"><img src="https://img.shields.io/badge/Jenkins-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Jenkins"></a> <a href="https://www.cuatlanta.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="PostgreSQL"></a> <a href="https://www.cuatlanta.org/" target="_blank"><img src="https://img.shields.io/badge/Prometheus-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Prometheus"></a> <a href="https://www.cuatlanta.org/" target="_blank"><img src="https://img.shields.io/badge/Grafana-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Grafana"></a>
+<a href="https://www.oracle.com/java/" target="_blank"><img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Java"></a> <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://img.shields.io/badge/Spring_Boot-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Spring Boot"></a> <a href="https://angular.dev/" target="_blank"><img src="https://img.shields.io/badge/Angular-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Angular"></a> <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/AWS-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="AWS"></a> <a href="https://azure.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/Azure-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Azure"></a> <a href="https://kubernetes.io/" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Kubernetes"></a> <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Docker"></a> <a href="https://www.jenkins.io/" target="_blank"><img src="https://img.shields.io/badge/Jenkins-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Jenkins"></a> <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="PostgreSQL"></a> <a href="https://prometheus.io/" target="_blank"><img src="https://img.shields.io/badge/Prometheus-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Prometheus"></a> <a href="https://grafana.com/" target="_blank"><img src="https://img.shields.io/badge/Grafana-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Grafana"></a>
 
 **Impact:** Improved scalability, deployment reliability, monitoring, and modernization readiness for core banking services.
 
@@ -367,7 +366,7 @@ Migrated legacy banking systems into scalable cloud-native microservices using J
 ### Intelligent Health Data Exchange Platform
 Built secure healthcare data exchange services integrating FHIR/HL7 pipelines, REST APIs, GraphQL, Kafka, and React-based care coordination dashboards.
 
-<a href="https://www.centene.com/" target="_blank"><img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Java"></a> <a href="https://www.centene.com/" target="_blank"><img src="https://img.shields.io/badge/Spring_Boot-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Spring Boot"></a> <a href="https://www.centene.com/" target="_blank"><img src="https://img.shields.io/badge/React-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="React"></a> <a href="https://www.centene.com/" target="_blank"><img src="https://img.shields.io/badge/Kafka-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Kafka"></a> <a href="https://www.centene.com/" target="_blank"><img src="https://img.shields.io/badge/FHIR-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="FHIR"></a> <a href="https://www.centene.com/" target="_blank"><img src="https://img.shields.io/badge/GraphQL-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="GraphQL"></a> <a href="https://www.centene.com/" target="_blank"><img src="https://img.shields.io/badge/AWS_EKS-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="AWS EKS"></a> <a href="https://www.centene.com/" target="_blank"><img src="https://img.shields.io/badge/Terraform-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Terraform"></a> <a href="https://www.centene.com/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="PostgreSQL"></a> <a href="https://www.centene.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="MongoDB"></a>
+<a href="https://www.oracle.com/java/" target="_blank"><img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Java"></a> <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://img.shields.io/badge/Spring_Boot-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Spring Boot"></a> <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/React-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="React"></a> <a href="https://kafka.apache.org/" target="_blank"><img src="https://img.shields.io/badge/Kafka-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Kafka"></a> <a href="https://www.hl7.org/fhir/" target="_blank"><img src="https://img.shields.io/badge/FHIR-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="FHIR"></a> <a href="https://graphql.org/" target="_blank"><img src="https://img.shields.io/badge/GraphQL-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="GraphQL"></a> <a href="https://aws.amazon.com/eks/" target="_blank"><img src="https://img.shields.io/badge/AWS_EKS-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="AWS EKS"></a> <a href="https://developer.hashicorp.com/terraform/intro" target="_blank"><img src="https://img.shields.io/badge/Terraform-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Terraform"></a> <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="PostgreSQL"></a> <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="MongoDB"></a>
 
 **Impact:** Enabled secure healthcare interoperability, real-time insights, and improved care workflow visibility.
 
@@ -380,7 +379,7 @@ Built secure healthcare data exchange services integrating FHIR/HL7 pipelines, R
 ### Real-Time Transaction Fraud Monitoring Platform
 Designed event-driven fraud monitoring services using Spring Boot microservices, Kafka Streams, Redis, React dashboards, and Azure Kubernetes Service.
 
-<a href="https://www.hdfcbank.com/" target="_blank"><img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Java"></a> <a href="https://www.hdfcbank.com/" target="_blank"><img src="https://img.shields.io/badge/Spring_Boot-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Spring Boot"></a> <a href="https://www.hdfcbank.com/" target="_blank"><img src="https://img.shields.io/badge/Kafka_Streams-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Kafka Streams"></a> <a href="https://www.hdfcbank.com/" target="_blank"><img src="https://img.shields.io/badge/Redis-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Redis"></a> <a href="https://www.hdfcbank.com/" target="_blank"><img src="https://img.shields.io/badge/React-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="React"></a> <a href="https://www.hdfcbank.com/" target="_blank"><img src="https://img.shields.io/badge/Azure_AKS-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Azure AKS"></a> <a href="https://www.hdfcbank.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Docker"></a> <a href="https://www.hdfcbank.com/" target="_blank"><img src="https://img.shields.io/badge/Jenkins-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Jenkins"></a> <a href="https://www.hdfcbank.com/" target="_blank"><img src="https://img.shields.io/badge/Prometheus-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Prometheus"></a> <a href="https://www.hdfcbank.com/" target="_blank"><img src="https://img.shields.io/badge/Grafana-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Grafana"></a>
+<a href="https://www.oracle.com/java/" target="_blank"><img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Java"></a> <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://img.shields.io/badge/Spring_Boot-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Spring Boot"></a> <a href="https://kafka.apache.org/documentation/streams/" target="_blank"><img src="https://img.shields.io/badge/Kafka_Streams-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Kafka Streams"></a> <a href="https://redis.io/" target="_blank"><img src="https://img.shields.io/badge/Redis-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Redis"></a> <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/React-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="React"></a> <a href="https://azure.microsoft.com/products/kubernetes-service" target="_blank"><img src="https://img.shields.io/badge/Azure_AKS-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Azure AKS"></a> <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Docker"></a> <a href="https://www.jenkins.io/" target="_blank"><img src="https://img.shields.io/badge/Jenkins-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Jenkins"></a> <a href="https://prometheus.io/" target="_blank"><img src="https://img.shields.io/badge/Prometheus-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Prometheus"></a> <a href="https://grafana.com/" target="_blank"><img src="https://img.shields.io/badge/Grafana-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Grafana"></a>
 
 **Impact:** Supported real-time transaction scoring, fraud detection workflows, and scalable financial monitoring.
 
@@ -393,7 +392,7 @@ Designed event-driven fraud monitoring services using Spring Boot microservices,
 ### Deep Zoom CAD Visualization & Fleet Insights Platform
 Developed a cloud-native platform for high-fidelity CAD visualization and real-time fleet telemetry using React, WebGL, Spring Boot, Node.js, Kafka, and AWS EKS.
 
-<a href="https://www.conmet.com/" target="_blank"><img src="https://img.shields.io/badge/React-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="React"></a> <a href="https://www.conmet.com/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="TypeScript"></a> <a href="https://www.conmet.com/" target="_blank"><img src="https://img.shields.io/badge/WebGL-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="WebGL"></a> <a href="https://www.conmet.com/" target="_blank"><img src="https://img.shields.io/badge/Three.js-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Three.js"></a> <a href="https://www.conmet.com/" target="_blank"><img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Java"></a> <a href="https://www.conmet.com/" target="_blank"><img src="https://img.shields.io/badge/Spring_Boot-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Spring Boot"></a> <a href="https://www.conmet.com/" target="_blank"><img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Node.js"></a> <a href="https://www.conmet.com/" target="_blank"><img src="https://img.shields.io/badge/Kafka-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Kafka"></a> <a href="https://www.conmet.com/" target="_blank"><img src="https://img.shields.io/badge/Cassandra-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Cassandra"></a> <a href="https://www.conmet.com/" target="_blank"><img src="https://img.shields.io/badge/Redis-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Redis"></a> <a href="https://www.conmet.com/" target="_blank"><img src="https://img.shields.io/badge/AWS_EKS-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="AWS EKS"></a>
+<a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/React-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="React"></a> <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="TypeScript"></a> <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API" target="_blank"><img src="https://img.shields.io/badge/WebGL-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="WebGL"></a> <a href="https://threejs.org/" target="_blank"><img src="https://img.shields.io/badge/Three.js-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Three.js"></a> <a href="https://www.oracle.com/java/" target="_blank"><img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Java"></a> <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://img.shields.io/badge/Spring_Boot-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Spring Boot"></a> <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Node.js"></a> <a href="https://kafka.apache.org/" target="_blank"><img src="https://img.shields.io/badge/Kafka-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Kafka"></a> <a href="https://cassandra.apache.org/" target="_blank"><img src="https://img.shields.io/badge/Cassandra-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Cassandra"></a> <a href="https://redis.io/" target="_blank"><img src="https://img.shields.io/badge/Redis-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Redis"></a> <a href="https://aws.amazon.com/eks/" target="_blank"><img src="https://img.shields.io/badge/AWS_EKS-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="AWS EKS"></a>
 
 **Impact:** Delivered interactive visualization, real-time telemetry processing, and scalable IoT analytics.
 
@@ -406,7 +405,7 @@ Developed a cloud-native platform for high-fidelity CAD visualization and real-t
 ### Clinical Intelligence Engine & Connected Care Platform
 Built clinician-facing healthcare applications with real-time vitals processing, FHIR integration, Spring Boot services, React dashboards, and GCP Kubernetes deployment.
 
-<a href="https://www.apollohospitals.com/" target="_blank"><img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Java"></a> <a href="https://www.apollohospitals.com/" target="_blank"><img src="https://img.shields.io/badge/Spring_Boot-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Spring Boot"></a> <a href="https://www.apollohospitals.com/" target="_blank"><img src="https://img.shields.io/badge/React-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="React"></a> <a href="https://www.apollohospitals.com/" target="_blank"><img src="https://img.shields.io/badge/GCP_GKE-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="GCP GKE"></a> <a href="https://www.apollohospitals.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Docker"></a> <a href="https://www.apollohospitals.com/" target="_blank"><img src="https://img.shields.io/badge/Terraform-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Terraform"></a> <a href="https://www.apollohospitals.com/" target="_blank"><img src="https://img.shields.io/badge/Kafka_Streams-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Kafka Streams"></a> <a href="https://www.apollohospitals.com/" target="_blank"><img src="https://img.shields.io/badge/Cassandra-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Cassandra"></a> <a href="https://www.apollohospitals.com/" target="_blank"><img src="https://img.shields.io/badge/Redis-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Redis"></a> <a href="https://www.apollohospitals.com/" target="_blank"><img src="https://img.shields.io/badge/Prometheus-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Prometheus"></a> <a href="https://www.apollohospitals.com/" target="_blank"><img src="https://img.shields.io/badge/Grafana-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Grafana"></a>
+<a href="https://www.oracle.com/java/" target="_blank"><img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Java"></a> <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://img.shields.io/badge/Spring_Boot-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Spring Boot"></a> <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/React-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="React"></a> <a href="https://cloud.google.com/kubernetes-engine" target="_blank"><img src="https://img.shields.io/badge/GCP_GKE-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="GCP GKE"></a> <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Docker"></a> <a href="https://developer.hashicorp.com/terraform/intro" target="_blank"><img src="https://img.shields.io/badge/Terraform-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Terraform"></a> <a href="https://kafka.apache.org/documentation/streams/" target="_blank"><img src="https://img.shields.io/badge/Kafka_Streams-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Kafka Streams"></a> <a href="https://cassandra.apache.org/" target="_blank"><img src="https://img.shields.io/badge/Cassandra-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Cassandra"></a> <a href="https://redis.io/" target="_blank"><img src="https://img.shields.io/badge/Redis-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Redis"></a> <a href="https://prometheus.io/" target="_blank"><img src="https://img.shields.io/badge/Prometheus-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Prometheus"></a> <a href="https://grafana.com/" target="_blank"><img src="https://img.shields.io/badge/Grafana-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Grafana"></a>
 
 **Impact:** Improved clinical alerting, patient data visibility, and healthcare platform reliability.
 
@@ -424,30 +423,58 @@ Built clinician-facing healthcare applications with real-time vitals processing,
 
 **Backend & Distributed Systems**
 
-Java, Spring Boot, REST APIs, GraphQL, Kafka, Redis, microservices, event-driven architecture
+Designing scalable backend platforms using Java, Spring Boot, REST APIs, GraphQL, Kafka, Redis, and microservices patterns. Focused on clean architecture, secure service communication, performance optimization, and reliable distributed workflows.
+
+- Java / Spring Boot microservices
+- REST and GraphQL API design
+- Event-driven architecture
+- Kafka-based asynchronous processing
+- Redis caching and performance tuning
+- Secure API development with OAuth2 and JWT
 
 </td>
 <td width="50%" valign="top">
 
 **Cloud-Native Engineering**
 
-AWS, Azure, GCP, Kubernetes, Docker, Terraform, Helm, CloudFormation
+Building and deploying enterprise applications across AWS, Azure, and GCP using containers, Kubernetes, infrastructure as code, and cloud-native services for scalability, resilience, and operational efficiency.
+
+- AWS EKS, EC2, S3, Lambda, RDS, IAM
+- Azure AKS, Azure Functions, App Services, Azure SQL
+- GCP GKE
+- Docker and Kubernetes deployments
+- Terraform, Helm, and CloudFormation
+- Cloud modernization and migration
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**DevOps & Automation**
+**DevOps & Delivery Automation**
 
-CI/CD pipelines, Jenkins, GitHub Actions, infrastructure as code, automated testing, release workflows
+Creating reliable CI/CD workflows and automated release pipelines that improve delivery speed, reduce deployment risk, and support production-grade engineering teams.
+
+- Jenkins and GitHub Actions pipelines
+- Dockerized build and deployment workflows
+- Automated testing with JUnit, Mockito, Cypress, Postman
+- SonarQube and OWASP quality/security gates
+- Environment-specific Kubernetes configuration
+- Zero-downtime deployment practices
 
 </td>
 <td width="50%" valign="top">
 
-**Observability & Reliability**
+**Observability, Reliability & Production Support**
 
-Prometheus, Grafana, ELK Stack, Splunk, production monitoring, performance optimization, incident troubleshooting
+Improving production reliability through monitoring, logging, alerting, performance tuning, and incident troubleshooting across distributed systems.
+
+- Prometheus metrics and Grafana dashboards
+- ELK Stack centralized logging
+- Splunk alerts and operational visibility
+- Performance tuning and query optimization
+- Incident troubleshooting and root cause analysis
+- Proactive monitoring for reduced downtime
 
 </td>
 </tr>
@@ -467,15 +494,73 @@ Prometheus, Grafana, ELK Stack, Splunk, production monitoring, performance optim
 
 <br>
 
+<!-- ===================== CERTIFICATIONS ===================== -->
+## Certifications
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/Java-161b22?style=flat-square&labelColor=161b22&color=30363d&logoColor=f0f6fc" alt="Java" height="22"> &nbsp; **Oracle Java SE 11 Developer**
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/OCI-161b22?style=flat-square&labelColor=161b22&color=30363d&logoColor=f0f6fc" alt="OCI" height="22"> &nbsp; **Oracle Cloud Infrastructure 2025 Certified Developer Professional**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/OCI_GenAI-161b22?style=flat-square&labelColor=161b22&color=30363d&logoColor=f0f6fc" alt="OCI GenAI" height="22"> &nbsp; **Oracle Cloud Infrastructure 2025 Certified Generative AI Professional**
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/Azure-161b22?style=flat-square&labelColor=161b22&color=30363d&logoColor=f0f6fc" alt="Azure" height="22"> &nbsp; **Microsoft Azure Fundamentals**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/Java-161b22?style=flat-square&labelColor=161b22&color=30363d&logoColor=f0f6fc" alt="Java" height="22"> &nbsp; **Oracle Java SE 8 Programmer**
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/AWS-161b22?style=flat-square&labelColor=161b22&color=30363d&logoColor=f0f6fc" alt="AWS" height="22"> &nbsp; **AWS Certified Developer**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/Architecture-161b22?style=flat-square&labelColor=161b22&color=30363d&logoColor=f0f6fc" alt="Architecture" height="22"> &nbsp; **Microsoft Solution Architecture**
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/Simulation-161b22?style=flat-square&labelColor=161b22&color=30363d&logoColor=f0f6fc" alt="Simulation" height="22"> &nbsp; **Software Engineering Job Simulation by JP Morgan Chase &amp; Co**
+
+</td>
+</tr>
+</table>
+
+<br>
+
 <!-- ===================== GITHUB ANALYTICS ===================== -->
 ## GitHub Analytics
 
 <div align="center">
 
-<sub>Most-used languages based on my public GitHub repositories.</sub>
+<sub>GitHub activity and most-used languages based on my public repositories.</sub>
 
 <br>
 
+<a href="https://github.com/sivad5712"><img src="https://github-readme-stats.vercel.app/api?username=sivad5712&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=2f81f7&text_color=8b949e&icon_color=2f81f7" alt="GitHub stats for sivad5712" height="160"></a>
+&nbsp;
 <a href="https://github.com/sivad5712"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivad5712&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2f81f7&text_color=8b949e" alt="Most used languages by sivad5712" height="160"></a>
 
 </div>
