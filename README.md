@@ -553,28 +553,27 @@ Improving production reliability through monitoring, logging, alerting, performa
 
 Validated expertise across Java engineering, cloud platforms, solution architecture, and enterprise software delivery.
 
-<table>
-<tr><td>
+---
 
-**Cloud & Architecture**
+#### Oracle
 
-**[OCI]** &nbsp; Oracle Cloud Infrastructure 2025 Certified Developer Professional  
-**[OCI GenAI]** &nbsp; Oracle Cloud Infrastructure 2025 Certified Generative AI Professional  
-**[Azure]** &nbsp; Microsoft Azure Fundamentals  
-**[AWS]** &nbsp; AWS Certified Developer  
-**[Architecture]** &nbsp; Microsoft Solution Architecture  
+**Java SE 11 Developer** • Advanced Java certification focused on core Java engineering and enterprise application development.  
+**Java SE 8 Programmer** • Java programming certification covering object-oriented programming, APIs, and core language fundamentals.  
+**Oracle Cloud Infrastructure 2025 Certified Developer Professional** • Cloud developer certification focused on OCI services, cloud-native development, and application deployment.  
+**Oracle Cloud Infrastructure 2025 Certified Generative AI Professional** • Certification focused on Oracle Cloud Infrastructure and Generative AI capabilities.
 
-</td></tr>
-<tr><td>
+#### Microsoft
 
-**Java & Software Engineering**
+**Azure Fundamentals** • Foundational certification covering Azure cloud services, core cloud concepts, governance, security, and pricing models.  
+**Microsoft Solution Architecture** • Architecture-focused credential aligned with designing scalable, secure, and reliable cloud solutions.
 
-**[Java]** &nbsp; Oracle Java SE 11 Developer  
-**[Java]** &nbsp; Oracle Java SE 8 Programmer  
-**[Simulation]** &nbsp; Software Engineering Job Simulation by JP Morgan Chase & Co  
+#### Amazon Web Services
 
-</td></tr>
-</table>
+**AWS Certified Developer** • Cloud developer certification focused on AWS services, serverless applications, deployment, monitoring, and cloud-native development.
+
+#### JP Morgan Chase & Co
+
+**Software Engineering Job Simulation** • Practical software engineering simulation focused on real-world development workflows and enterprise engineering practices.
 
 <div align="center">
 
