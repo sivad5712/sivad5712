@@ -19,7 +19,7 @@ Senior Software Engineer with 8 years of experience designing, building, deployi
 <p align="center">
 <a href="https://sivad.abacusai.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-161b22?style=for-the-badge&labelColor=161b22&color=30363d&logoColor=f0f6fc" alt="Portfolio" height="32"></a>
     &nbsp;
-    <a href="#"><img src="https://img.shields.io/badge/Resume_PDF-161b22?style=for-the-badge&labelColor=161b22&color=30363d&logoColor=f0f6fc" alt="Resume PDF" height="32"></a>
+    <a href="https://sivad5712.github.io/Siva_D_Resume/Siva_D_Resume.pdf"><img src="https://img.shields.io/badge/Resume_PDF-161b22?style=for-the-badge&labelColor=161b22&color=30363d&logoColor=f0f6fc" alt="Resume PDF" height="32"></a>
     &nbsp;
     <a href="https://www.linkedin.com/in/sivad571/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&labelColor=161b22&color=30363d&logoColor=f0f6fc" alt="LinkedIn" height="32"></a>
     &nbsp;
