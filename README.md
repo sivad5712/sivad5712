@@ -17,15 +17,15 @@ Senior Software Engineer with 8 years of experience designing, building, deployi
 
 <!-- ===================== ACTION BUTTONS ===================== -->
 <p align="center">
-<a href="https://sivad.abacusai.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-161b22?style=for-the-badge&labelColor=161b22&color=30363d&logoColor=f0f6fc" alt="Portfolio" height="32"></a>
-    &nbsp;
-    <a href="https://sivad5712.github.io/Siva_D_Resume/Siva_D_Resume.pdf"><img src="https://img.shields.io/badge/Resume_PDF-161b22?style=for-the-badge&labelColor=161b22&color=30363d&logoColor=f0f6fc" alt="Resume PDF" height="32"></a>
-    &nbsp;
-    <a href="https://www.linkedin.com/in/sivad571/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&labelColor=161b22&color=30363d&logoColor=f0f6fc" alt="LinkedIn" height="32"></a>
-    &nbsp;
-    <a href="https://github.com/sivad5712" target="_blank"><img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&labelColor=161b22&color=30363d&logoColor=f0f6fc" alt="GitHub" height="32"></a>
-    &nbsp;
-    <a href="mailto:Sivad5712@gmail.com"><img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&labelColor=161b22&color=30363d&logoColor=f0f6fc" alt="Email" height="32"></a>
+<a href="https://sivad.abacusai.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-24292f?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio" height="32"></a>
+      &nbsp;
+      <a href="https://raw.githubusercontent.com/sivad5712/Siva_D_Resume/main/Siva_D_Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume_PDF-24292f?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume PDF" height="32"></a>
+      &nbsp;
+      <a href="https://www.linkedin.com/in/sivad571/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-24292f?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="32"></a>
+      &nbsp;
+      <a href="https://github.com/sivad5712" target="_blank"><img src="https://img.shields.io/badge/GitHub-24292f?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="32"></a>
+      &nbsp;
+      <a href="mailto:Sivad5712@gmail.com"><img src="https://img.shields.io/badge/Email-24292f?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="32"></a>
 </p>
 
 <br>
