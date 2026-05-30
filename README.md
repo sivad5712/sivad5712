@@ -266,7 +266,7 @@ Modernized legacy monolithic Java systems into cloud-native microservices using 
 - Improved PostgreSQL query performance and supported high-volume transactional data processing.
 - Implemented observability using Prometheus and Grafana for proactive monitoring and reduced downtime.
 
-Tech: [Java](https://www.oracle.com/java/) · [Spring Boot](https://spring.io/projects/spring-boot) · [Angular](https://angular.dev/) · [AWS](https://aws.amazon.com/) · [Azure](https://azure.microsoft.com/) · [Kubernetes](https://kubernetes.io/) · [Docker](https://www.docker.com/) · [Jenkins](https://www.jenkins.io/) · [PostgreSQL](https://www.postgresql.org/) · [Prometheus](https://prometheus.io/) · [Grafana](https://grafana.com/)
+Tech: [Java](https://www.oracle.com/java/) · [Spring Boot](https://spring.io/projects/spring-boot) · [Angular](https://angular.dev/) · [AWS](https://aws.amazon.com/) · [Microsoft Azure](https://azure.microsoft.com/) · [Kubernetes](https://kubernetes.io/) · [Docker](https://www.docker.com/) · [Jenkins](https://www.jenkins.io/) · [PostgreSQL](https://www.postgresql.org/) · [Prometheus](https://prometheus.io/) · [Grafana](https://grafana.com/)
 
 </td></tr>
 </table>
@@ -288,7 +288,7 @@ Built a secure healthcare data exchange platform using Java, Spring Boot, Node.j
 - Maintained Jenkins CI/CD pipelines for Dockerized services on AWS EKS.
 - Improved monitoring and MTTR using Prometheus and Grafana.
 
-Tech: [Java](https://www.oracle.com/java/) · [Spring Boot](https://spring.io/projects/spring-boot) · [React](https://react.dev/) · [Kafka](https://kafka.apache.org/) · [FHIR](https://www.hl7.org/fhir/) · [GraphQL](https://graphql.org/) · [AWS EKS](https://aws.amazon.com/eks/) · [Terraform](https://developer.hashicorp.com/terraform/intro) · [PostgreSQL](https://www.postgresql.org/) · [MongoDB](https://www.mongodb.com/)
+Tech: [Java](https://www.oracle.com/java/) · [Spring Boot](https://spring.io/projects/spring-boot) · [React](https://react.dev/) · [Apache Kafka](https://kafka.apache.org/) · [FHIR](https://www.hl7.org/fhir/) · [GraphQL](https://graphql.org/) · [AWS EKS](https://aws.amazon.com/eks/) · [Terraform](https://developer.hashicorp.com/terraform/intro) · [PostgreSQL](https://www.postgresql.org/) · [MongoDB](https://www.mongodb.com/)
 
 </td></tr>
 </table>
@@ -310,7 +310,7 @@ Developed a cloud-native CAD visualization and real-time fleet analytics platfor
 - Implemented Redis caching for low-latency CAD thumbnails and KPI snapshots.
 - Established CI/CD workflows with GitHub Actions and automated testing.
 
-Tech: [React](https://react.dev/) · [TypeScript](https://www.typescriptlang.org/) · [WebGL](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API) · [Three.js](https://threejs.org/) · [Java](https://www.oracle.com/java/) · [Spring Boot](https://spring.io/projects/spring-boot) · [Node.js](https://nodejs.org/) · [Kafka](https://kafka.apache.org/) · [Cassandra](https://cassandra.apache.org/) · [Redis](https://redis.io/) · [AWS EKS](https://aws.amazon.com/eks/)
+Tech: [React](https://react.dev/) · [TypeScript](https://www.typescriptlang.org/) · [WebGL](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API) · [Three.js](https://threejs.org/) · [Java](https://www.oracle.com/java/) · [Spring Boot](https://spring.io/projects/spring-boot) · [Node.js](https://nodejs.org/) · [Apache Kafka](https://kafka.apache.org/) · [Cassandra](https://cassandra.apache.org/) · [Redis](https://redis.io/) · [AWS EKS](https://aws.amazon.com/eks/)
 
 </td></tr>
 </table>
@@ -376,7 +376,7 @@ Tech: [Java](https://www.oracle.com/java/) · [Spring Boot](https://spring.io/pr
 ### Core Transformation & Cloud Modernization
 Migrated legacy banking systems into scalable cloud-native microservices using Java, Spring Boot, AWS/Azure, Docker, Kubernetes, and CI/CD automation.
 
-Tech: [Java](https://www.oracle.com/java/) · [Spring Boot](https://spring.io/projects/spring-boot) · [Angular](https://angular.dev/) · [AWS](https://aws.amazon.com/) · [Azure](https://azure.microsoft.com/) · [Kubernetes](https://kubernetes.io/) · [Docker](https://www.docker.com/) · [Jenkins](https://www.jenkins.io/) · [PostgreSQL](https://www.postgresql.org/) · [Prometheus](https://prometheus.io/) · [Grafana](https://grafana.com/)
+Tech: [Java](https://www.oracle.com/java/) · [Spring Boot](https://spring.io/projects/spring-boot) · [Angular](https://angular.dev/) · [AWS](https://aws.amazon.com/) · [Microsoft Azure](https://azure.microsoft.com/) · [Kubernetes](https://kubernetes.io/) · [Docker](https://www.docker.com/) · [Jenkins](https://www.jenkins.io/) · [PostgreSQL](https://www.postgresql.org/) · [Prometheus](https://prometheus.io/) · [Grafana](https://grafana.com/)
 
 **Impact:** Improved scalability, deployment reliability, monitoring, and modernization readiness for core banking services.
 
@@ -389,7 +389,7 @@ Tech: [Java](https://www.oracle.com/java/) · [Spring Boot](https://spring.io/pr
 ### Intelligent Health Data Exchange Platform
 Built secure healthcare data exchange services integrating FHIR/HL7 pipelines, REST APIs, GraphQL, Kafka, and React-based care coordination dashboards.
 
-Tech: [Java](https://www.oracle.com/java/) · [Spring Boot](https://spring.io/projects/spring-boot) · [React](https://react.dev/) · [Kafka](https://kafka.apache.org/) · [FHIR](https://www.hl7.org/fhir/) · [GraphQL](https://graphql.org/) · [AWS EKS](https://aws.amazon.com/eks/) · [Terraform](https://developer.hashicorp.com/terraform/intro) · [PostgreSQL](https://www.postgresql.org/) · [MongoDB](https://www.mongodb.com/)
+Tech: [Java](https://www.oracle.com/java/) · [Spring Boot](https://spring.io/projects/spring-boot) · [React](https://react.dev/) · [Apache Kafka](https://kafka.apache.org/) · [FHIR](https://www.hl7.org/fhir/) · [GraphQL](https://graphql.org/) · [AWS EKS](https://aws.amazon.com/eks/) · [Terraform](https://developer.hashicorp.com/terraform/intro) · [PostgreSQL](https://www.postgresql.org/) · [MongoDB](https://www.mongodb.com/)
 
 **Impact:** Enabled secure healthcare interoperability, real-time insights, and improved care workflow visibility.
 
@@ -415,7 +415,7 @@ Tech: [Java](https://www.oracle.com/java/) · [Spring Boot](https://spring.io/pr
 ### Deep Zoom CAD Visualization & Fleet Insights Platform
 Developed a cloud-native platform for high-fidelity CAD visualization and real-time fleet telemetry using React, WebGL, Spring Boot, Node.js, Kafka, and AWS EKS.
 
-Tech: [React](https://react.dev/) · [TypeScript](https://www.typescriptlang.org/) · [WebGL](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API) · [Three.js](https://threejs.org/) · [Java](https://www.oracle.com/java/) · [Spring Boot](https://spring.io/projects/spring-boot) · [Node.js](https://nodejs.org/) · [Kafka](https://kafka.apache.org/) · [Cassandra](https://cassandra.apache.org/) · [Redis](https://redis.io/) · [AWS EKS](https://aws.amazon.com/eks/)
+Tech: [React](https://react.dev/) · [TypeScript](https://www.typescriptlang.org/) · [WebGL](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API) · [Three.js](https://threejs.org/) · [Java](https://www.oracle.com/java/) · [Spring Boot](https://spring.io/projects/spring-boot) · [Node.js](https://nodejs.org/) · [Apache Kafka](https://kafka.apache.org/) · [Cassandra](https://cassandra.apache.org/) · [Redis](https://redis.io/) · [AWS EKS](https://aws.amazon.com/eks/)
 
 **Impact:** Delivered interactive visualization, real-time telemetry processing, and scalable IoT analytics.
 
