@@ -408,31 +408,41 @@ Improving production reliability through monitoring, logging, alerting, performa
 
 <!-- ===================== CERTIFICATIONS ===================== -->
 ## Certifications
-
 Validated expertise across Java engineering, cloud platforms, solution architecture, and enterprise software delivery.
 
 ---
 
 #### Oracle
 
-**Java SE 11 Developer** • Advanced Java certification focused on core Java engineering and enterprise application development.
-**Java SE 8 Programmer** • Java programming certification covering object-oriented programming, APIs, and core language fundamentals.
-**Oracle Cloud Infrastructure 2025 Certified Developer Professional** • Cloud developer certification focused on OCI services, cloud-native development, and application deployment.
-**Oracle Cloud Infrastructure 2025 Certified Generative AI Professional** • Certification focused on Oracle Cloud Infrastructure and Generative AI capabilities.
+**Java SE 11 Developer**<br>
+Advanced Java engineering and enterprise application development.
+
+**Java SE 8 Programmer**<br>
+Java fundamentals, object-oriented programming, and core APIs.
+
+**Oracle Cloud Infrastructure 2025 Certified Developer Professional**<br>
+Cloud-native development and application deployment on OCI.
+
+**Oracle Cloud Infrastructure 2025 Certified Generative AI Professional**<br>
+Oracle Cloud Infrastructure and Generative AI capabilities.
 
 #### Microsoft
 
-**Azure Fundamentals** • Foundational certification covering Azure cloud services, core cloud concepts, governance, security, and pricing models.
-**Microsoft Solution Architecture** • Architecture-focused credential aligned with designing scalable, secure, and reliable cloud solutions.
+**Azure Fundamentals**<br>
+Core Azure cloud services, security, governance, and concepts.
+
+**Microsoft Solution Architecture**<br>
+Designing scalable, secure, and reliable cloud solutions.
 
 #### Amazon Web Services
 
-**AWS Certified Developer** • Cloud developer certification focused on AWS services, serverless applications, deployment, monitoring, and cloud-native development.
+**AWS Certified Developer**<br>
+AWS development, deployment, serverless applications, and monitoring.
 
 #### JP Morgan Chase & Co
 
-**Software Engineering Job Simulation** • Practical software engineering simulation focused on real-world development workflows and enterprise engineering practices.
-
+**Software Engineering Job Simulation**<br>
+Real-world software engineering workflows.
 <div align="center">
 
 ---
